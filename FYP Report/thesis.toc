@@ -67,13 +67,13 @@
 \contentsline {section}{\numberline {6.2}Designed Use-case, System Diagram}{31}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Use Case Diagram}{32}{section.6.3}%
 \contentsline {section}{\numberline {6.4}System Diagram}{32}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Activity Diagram}{32}{section.6.5}%
+\contentsline {section}{\numberline {6.5}Activity Diagram}{33}{section.6.5}%
 \contentsline {chapter}{\numberline {7}Iteration Plan 2 (FYP 1 Final)}{35}{chapter.7}%
 \contentsline {section}{\numberline {7.1}FYP 1 Final:}{35}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Designed basic environment of Hospital:}{35}{section.7.2}%
 \contentsline {subsection}{\numberline {7.2.1}Hospital Entrance:}{35}{subsection.7.2.1}%
 \contentsline {subsection}{\numberline {7.2.2}Reception Area:}{36}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Waiting Area:}{37}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.3}Waiting Area:}{36}{subsection.7.2.3}%
 \contentsline {subsection}{\numberline {7.2.4}Patient Rooms:}{37}{subsection.7.2.4}%
 \contentsline {subsection}{\numberline {7.2.5}Patient Body:}{38}{subsection.7.2.5}%
 \contentsline {chapter}{\numberline {8}Iteration 3 (FYP-2 Mid)}{39}{chapter.8}%
@@ -99,7 +99,7 @@
 \contentsline {section}{\numberline {9.4}Testing and Calibration}{49}{section.9.4}%
 \contentsline {section}{\numberline {9.5}Enhancements and Features}{49}{section.9.5}%
 \contentsline {section}{\numberline {9.6}Challenges and Solutions}{49}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Future Directions}{50}{section.9.7}%
+\contentsline {section}{\numberline {9.7}Future Directions}{49}{section.9.7}%
 \contentsline {section}{\numberline {9.8}Conclusion}{50}{section.9.8}%
 \contentsline {chapter}{\numberline {10}Implementation Details}{51}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Introduction}{51}{section.10.1}%
