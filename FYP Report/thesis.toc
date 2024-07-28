@@ -1,0 +1,109 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}History of the Metaverse}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}1970 - Sci-Fi Origins:}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Early virtual worlds:}{2}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}1990 - Emergence of 3D virtual worlds:}{2}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}2000 - Online Games and Social Media:}{2}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}2010 - VR and AR:}{2}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}Metaverse Investment:}{3}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}Vision of the Metaverse:}{3}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Current developments:}{3}{subsection.1.1.8}%
+\contentsline {section}{\numberline {1.2}The Future of the Metaverse}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}How Metaverse Would Excel}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}What would affect the success of the metaverse}{4}{subsection.1.3.1}%
+\contentsline {chapter}{\numberline {2}Literature overview}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}All one needs to know about metaverse: A complete survey on technological singularity, virtual ecosystem, and research agenda \cite {lee2021all}\cite {BookChapter1}}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Healthcare in metaverse: A survey on current metaverse applications in healthcare\cite {bansal2022healthcare}\cite {JournalArticle12}}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Medical Metaverse: Technology, Applications, Challenges and Future\cite {shao2023medical}}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}The Metaverse for Healthcare: A Survey of Potential Applications, Challenges, and Future Directions.\cite {yendurimetaverse}\cite {JournalArticle10}}{9}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Revolutionizing Medical Education with Metaverse\cite {baskar2022revolutionizing}\cite {JournalArticle9}}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6}The Metaverse in Medical Education and Clinical Practice\cite {juan2023metaverse}}{10}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Virtual reality and the transformation of medical education\cite {pottle2019virtual}}{11}{section.2.7}%
+\contentsline {section}{\numberline {2.8}A Virtual Reality for the Digital Surgeon\cite {velazquez2021virtual}}{11}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Transforming medical education and training with VR using M.A.G.E.S.\cite {ProceedingsArticle}}{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Virtual Reality in Medicine\cite {JournalArticle}\cite {JournalArticle11}}{12}{section.2.10}%
+\contentsline {section}{\numberline {2.11}A Virtual Environment for Training and Assessment of Surgical Teams\cite {papagiannakis2018virtual}}{13}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Virtual reality technology and its application in modern medicine \cite {JournalArticle}}{13}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Role of virtual reality for healthcare education \cite {BookChapter}}{14}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Next-Gen Mulsemedia: Virtual Reality Haptic Simulator’s Impact on Medical Practitioner for Higher Education Institutions\cite {journalarticle4}\cite {JournalArticle5}\cite {JournalArticle8}}{14}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Design and implementation of a 3D digestive teaching system based on virtual reality technology in modern medical education\cite {Journal1}}{15}{section.2.15}%
+\contentsline {section}{\numberline {2.16}A Virtual Operating Room for Context-Relevant Training \cite {JournalArticle2}}{15}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Virtual reality surgical training and assessment system\cite {JournalArticle3}\cite {JournalArticle7}}{16}{section.2.17}%
+\contentsline {chapter}{\numberline {3}Project Vision}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Problem Statement}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Business Opportunity}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Goals}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Project Scope}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Limitations}{18}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Description of Stakeholders}{18}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Stakeholder Summary:}{18}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Key High Level Objectives and Stakeholder Issues:}{19}{subsection.3.6.2}%
+\contentsline {chapter}{\numberline {4}Software Requirements Specification}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}List of functions}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Test plan (test level, test techniques)}{22}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Use Case Diagram}{22}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Software Development Plan}{22}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Sequence Daigram/System Diagram}{23}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Activity Daigram}{24}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Tools and Technologies used}{24}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}C-Sharp:}{24}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Blender}{25}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Git}{25}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}GitHub}{26}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Meta}{26}{subsection.4.7.5}%
+\contentsline {subsection}{\numberline {4.7.6}Unity}{26}{subsection.4.7.6}%
+\contentsline {subsection}{\numberline {4.7.7}VRTK (Virtual Reality Tool Kit)}{27}{subsection.4.7.7}%
+\contentsline {subsection}{\numberline {4.7.8}Meta Quest 2}{27}{subsection.4.7.8}%
+\contentsline {subsection}{\numberline {4.7.9}Microsoft Visual C++}{28}{subsection.4.7.9}%
+\contentsline {chapter}{\numberline {5}Iteration Plan}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Planning Strategy}{29}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}FYP 1 Mid:}{29}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}FYP 1 Final:}{29}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}FYP 2 Mid:}{29}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}FYP 2 Final:}{30}{subsection.5.1.4}%
+\contentsline {chapter}{\numberline {6}Iteration 1 (FYP-1 Mid)}{31}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Literature review related Metaverse, and Healthcare}{31}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Designed Use-case, System Diagram}{31}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Use Case Diagram}{32}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Sequence Daigram/System Diagram}{32}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Activity Diagram}{33}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Iteration Plan 2 (FYP 1 Final)}{35}{chapter.7}%
+\contentsline {section}{\numberline {7.1}FYP 1 Final:}{35}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Designed basic environment of Hospital:}{35}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Reception Area:}{35}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Waiting Area:}{36}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Patient Rooms:}{37}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Patient Body:}{37}{subsection.7.2.4}%
+\contentsline {chapter}{\numberline {8}Iteration 3 (FYP-2 Mid)}{39}{chapter.8}%
+\contentsline {section}{\numberline {8.1}FYP-2 Mid}{39}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Laboratory}{40}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Tools and Medicines}{41}{subsection.8.1.2}%
+\contentsline {section}{\numberline {8.2}SVN or GitHub}{41}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Iteration 4}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduction}{47}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{48}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Integration Process with Meta Quest 2}{49}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Testing and Calibration}{49}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Enhancements and Features}{49}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Challenges and Solutions}{50}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Future Directions}{50}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Conclusion}{50}{section.9.8}%
+\contentsline {chapter}{\numberline {10}Implementation Details}{51}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Introduction}{51}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}User Authentication and Environment Access}{51}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Navigation to the Virtual Hospital Environment}{51}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}Scenario Selection and Patient Interaction}{52}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}Laboratory Interaction and Tool Acquisition}{52}{subsection.10.1.4}%
+\contentsline {subsection}{\numberline {10.1.5}Performing Medical Procedures}{52}{subsection.10.1.5}%
+\contentsline {subsection}{\numberline {10.1.6}Exit from the Virtual Environment}{52}{subsection.10.1.6}%
+\contentsline {subsection}{\numberline {10.1.7}Conclusion}{53}{subsection.10.1.7}%
+\contentsline {chapter}{\numberline {11}User Manual}{55}{chapter.11}%
+\contentsline {section}{\numberline {11.1}UI/UX}{55}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Choose Scenario}{55}{section.11.2}%
+\contentsline {section}{\numberline {11.3}1.1 Toggle Menu}{56}{section.11.3}%
+\contentsline {section}{\numberline {11.4}1.2 Toggle Menu}{56}{section.11.4}%
+\contentsline {chapter}{\numberline {12}Conclusions and Future Work}{57}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Conclusion:}{57}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Future Work:}{57}{section.12.2}%
+\contentsline {chapter}{References}{61}{chapter*.1}%
