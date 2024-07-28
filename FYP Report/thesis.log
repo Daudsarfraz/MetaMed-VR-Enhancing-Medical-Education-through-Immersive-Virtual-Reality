@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  28 JUL 2024 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  28 JUL 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1112,6 +1112,33 @@ LaTeX Warning: Label `fig:system-diagram' multiply defined.
 
 LaTeX Warning: Label `fig:system-diagram' multiply defined.
 
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
+
+LaTeX Warning: Label `fig:system-diagram' multiply defined.
+
 ) (./sections/chapter9.aux) (./sections/chapter10.aux)
 (./sections/chapter11.aux) (./sections/conclusions.aux))
 \openout1 = `thesis.aux'.
@@ -1249,7 +1276,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.0601> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.40012> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
-<ThesisFigs/FASTLogo.jpg, id=468, 325.96782pt x 321.45094pt>
+<ThesisFigs/FASTLogo.jpg, id=516, 325.96782pt x 321.45094pt>
 File: ThesisFigs/FASTLogo.jpg Graphic file (type jpg)
 <use ThesisFigs/FASTLogo.jpg>
 Package pdftex.def Info: ThesisFigs/FASTLogo.jpg  used on input line 41.
@@ -1294,11 +1321,11 @@ Overfull \hbox (4.17018pt too wide) in paragraph at lines 29--29
 la-tor's Im-pact on Med- 
  []
 
-[3] [4])
+[3] [4] [5])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [5] [6] (./thesis.lof [7
+ [6] (./thesis.lof [7
 
 ])
 \tf@lof=\write6
@@ -1340,7 +1367,7 @@ been already used, duplicate ignored
                    \relax 
 l.20 \subsection{Metaverse Investment:}
                                         [2]
-<Images/industrial-metaverse-market-size.png, id=770, 752.8125pt x 445.665pt>
+<Images/industrial-metaverse-market-size.png, id=840, 752.8125pt x 445.665pt>
 File: Images/industrial-metaverse-market-size.png Graphic file (type png)
 <use Images/industrial-metaverse-market-size.png>
 Package pdftex.def Info: Images/industrial-metaverse-market-size.png  used on i
@@ -2226,7 +2253,7 @@ Chapter 4.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<Images/Use Case.drawio.png, id=881, 915.42pt x 782.925pt>
+<Images/Use Case.drawio.png, id=952, 915.42pt x 782.925pt>
 File: Images/Use Case.drawio.png Graphic file (type png)
 <use Images/Use Case.drawio.png>
 Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
@@ -2238,7 +2265,7 @@ Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
                                                   \__shipout_drop_firstpage_...
 l.36     \item M
                 anagement <./Images/Use Case.drawio.png>]
-<Images/system.png, id=887, 770.88pt x 578.16pt>
+<Images/system.png, id=958, 770.88pt x 578.16pt>
 File: Images/system.png Graphic file (type png)
 <use Images/system.png>
 Package pdftex.def Info: Images/system.png  used on input line 43.
@@ -2249,12 +2276,12 @@ Package pdftex.def Info: Images/system.png  used on input line 43.
                                                   \__shipout_drop_firstpage_...
 l.46 \newpage
               <./Images/system.png>]
-<Images/Activity.drawio.png, id=894, 200.75pt x 637.38126pt>
+<Images/Activity.drawio.png, id=965, 200.75pt x 637.38126pt>
 File: Images/Activity.drawio.png Graphic file (type png)
 <use Images/Activity.drawio.png>
 Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
 (pdftex.def)             Requested size: 106.69783pt x 338.7733pt.
-<Images/CSharp.png, id=895, 376.40625pt x 376.40625pt>
+<Images/CSharp.png, id=966, 376.40625pt x 376.40625pt>
 File: Images/CSharp.png Graphic file (type png)
 <use Images/CSharp.png>
 Package pdftex.def Info: Images/CSharp.png  used on input line 60.
@@ -2263,7 +2290,7 @@ Package pdftex.def Info: Images/CSharp.png  used on input line 60.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/blender.png, id=897, 376.40625pt x 376.40625pt>
+<Images/blender.png, id=968, 376.40625pt x 376.40625pt>
 File: Images/blender.png Graphic file (type png)
 <use Images/blender.png>
 Package pdftex.def Info: Images/blender.png  used on input line 67.
@@ -2277,12 +2304,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
                                                   \__shipout_drop_firstpage_...
 l.70 \subsection{Git}
                       <./Images/Activity.drawio.png>]
-<Images/git.png, id=904, 376.40625pt x 376.40625pt>
+<Images/git.png, id=975, 376.40625pt x 376.40625pt>
 File: Images/git.png Graphic file (type png)
 <use Images/git.png>
 Package pdftex.def Info: Images/git.png  used on input line 74.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/GitHub.png, id=906, 376.40625pt x 376.40625pt>
+<Images/GitHub.png, id=977, 376.40625pt x 376.40625pt>
 File: Images/GitHub.png Graphic file (type png)
 <use Images/GitHub.png>
 Package pdftex.def Info: Images/GitHub.png  used on input line 81.
@@ -2304,12 +2331,12 @@ er (name{figure.4.6}) has been already used, duplicate ignored
 l.84 \subsection{Meta}
                        <./Images/CSharp.png> <./Images/blender.png> <./Images/g
 it.png>]
-<Images/meta.png, id=916, 376.40625pt x 376.40625pt>
+<Images/meta.png, id=986, 376.40625pt x 376.40625pt>
 File: Images/meta.png Graphic file (type png)
 <use Images/meta.png>
 Package pdftex.def Info: Images/meta.png  used on input line 88.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/unity.png, id=918, 376.40625pt x 376.40625pt>
+<Images/unity.png, id=988, 376.40625pt x 376.40625pt>
 File: Images/unity.png Graphic file (type png)
 <use Images/unity.png>
 Package pdftex.def Info: Images/unity.png  used on input line 95.
@@ -2329,12 +2356,12 @@ figure.4.8}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.98 \newpage
               <./Images/GitHub.png> <./Images/meta.png>]
-<Images/vrtk.png, id=926, 967.615pt x 408.52625pt>
+<Images/vrtk.png, id=996, 967.615pt x 408.52625pt>
 File: Images/vrtk.png Graphic file (type png)
 <use Images/vrtk.png>
 Package pdftex.def Info: Images/vrtk.png  used on input line 103.
 (pdftex.def)             Requested size: 128.03857pt x 85.35669pt.
-<Images/metaquest2.png, id=928, 2168.1pt x 2168.1pt>
+<Images/metaquest2.png, id=998, 2168.1pt x 2168.1pt>
 File: Images/metaquest2.png Graphic file (type png)
 <use Images/metaquest2.png>
 Package pdftex.def Info: Images/metaquest2.png  used on input line 110.
@@ -2354,7 +2381,7 @@ l.113 \newpage
                                                   \__shipout_drop_firstpage_...
 l.113 \newpage
                <./Images/unity.png> <./Images/vrtk.png>]
-<Images/VS Code.png, id=936, 803.0pt x 803.0pt>
+<Images/VS Code.png, id=1006, 803.0pt x 803.0pt>
 File: Images/VS Code.png Graphic file (type png)
 <use Images/VS Code.png>
 Package pdftex.def Info: Images/VS Code.png  used on input line 118.
@@ -2443,7 +2470,7 @@ l.58 \include{sections/chapter6}
 
  (./sections/chapter7.tex
 Chapter 7.
-<Images/Hospital Enterance.png, id=968, 1898.09125pt x 1066.98625pt>
+<Images/Hospital Enterance.png, id=1039, 1898.09125pt x 1066.98625pt>
 File: Images/Hospital Enterance.png Graphic file (type png)
 <use Images/Hospital Enterance.png>
 Package pdftex.def Info: Images/Hospital Enterance.png  used on input line 26.
@@ -2456,7 +2483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--31
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Reception Area.png, id=969, 1910.13625pt x 1069.9975pt>
+<Images/Reception Area.png, id=1040, 1910.13625pt x 1069.9975pt>
 File: Images/Reception Area.png Graphic file (type png)
 <use Images/Reception Area.png>
 Package pdftex.def Info: Images/Reception Area.png  used on input line 36.
@@ -2472,7 +2499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--41
 
 
 ]
-<Images/Waiting Area.png, id=975, 1913.1475pt x 1072.005pt>
+<Images/Waiting Area.png, id=1046, 1913.1475pt x 1072.005pt>
 File: Images/Waiting Area.png Graphic file (type png)
 <use Images/Waiting Area.png>
 Package pdftex.def Info: Images/Waiting Area.png  used on input line 46.
@@ -2485,7 +2512,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--50
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Patient Room.png, id=976, 1924.18875pt x 1075.01625pt>
+<Images/Patient Room.png, id=1047, 1924.18875pt x 1075.01625pt>
 File: Images/Patient Room.png Graphic file (type png)
 <use Images/Patient Room.png>
 Package pdftex.def Info: Images/Patient Room.png  used on input line 54.
@@ -2504,7 +2531,7 @@ l.58
                                                   \__shipout_drop_firstpage_...
 l.58 
       <./Images/Hospital Enterance.png> <./Images/Reception Area.png>]
-<Images/Patient Body.png, id=983, 717.68124pt x 728.7225pt>
+<Images/Patient Body.png, id=1054, 717.68124pt x 728.7225pt>
 File: Images/Patient Body.png Graphic file (type png)
 <use Images/Patient Body.png>
 Package pdftex.def Info: Images/Patient Body.png  used on input line 63.
@@ -2541,30 +2568,26 @@ Chapter 8.
 
 
 ]
-<Images/Toosls and Medicine.png, id=999, 1917.1625pt x 1072.005pt>
-File: Images/Toosls and Medicine.png Graphic file (type png)
-<use Images/Toosls and Medicine.png>
-Package pdftex.def Info: Images/Toosls and Medicine.png  used on input line 20.
-
+<Images/Tools and Medicine.png, id=1070, 1917.1625pt x 1072.005pt>
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 20.
 (pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
-File: Images/Toosls and Medicine.png Graphic file (type png)
-<use Images/Toosls and Medicine.png>
-Package pdftex.def Info: Images/Toosls and Medicine.png  used on input line 31.
-
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 31.
 (pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
-File: Images/Toosls and Medicine.png Graphic file (type png)
-<use Images/Toosls and Medicine.png>
-Package pdftex.def Info: Images/Toosls and Medicine.png  used on input line 40.
-
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 40.
 (pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: Images/Toosls and Medicine.png Graphic file (type png)
-<use Images/Toosls and Medicine.png>
-Package pdftex.def Info: Images/Toosls and Medicine.png  used on input line 49.
-
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 49.
 (pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
 [40pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1
 }) has been already used, duplicate ignored
@@ -2576,35 +2599,118 @@ l.53
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.53 
-      <./Images/Toosls and Medicine.png>]
-File: Images/Toosls and Medicine.png Graphic file (type png)
-<use Images/Toosls and Medicine.png>
-Package pdftex.def Info: Images/Toosls and Medicine.png  used on input line 58.
-
+      <./Images/Tools and Medicine.png>]
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 58.
 (pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [41pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-.3}) has been already used, duplicate ignored
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 71.
+(pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
+
+Underfull \vbox (badness 5802) has occurred while \output is active []
+
+ [41pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.75 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.75 
+     ]
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 80.
+(pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Washing hands.png, id=1081, 717.68124pt x 711.65875pt>
+File: Images/Washing hands.png Graphic file (type png)
+<use Images/Washing hands.png>
+Package pdftex.def Info: Images/Washing hands.png  used on input line 89.
+(pdftex.def)             Requested size: 277.41176pt x 275.09166pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 98.
+(pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
+[42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+8.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 
+      ]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 107.
+
+(pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/Tools and Medicine.png Graphic file (type png)
+<use Images/Tools and Medicine.png>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 116.
+
+(pdftex.def)             Requested size: 277.41176pt x 155.11777pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [43pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                ] [44pdfTeX warning (ext4): destination with th
+e same identifier (name{figure.8.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \include{sections/chapter8}
                                 pdfTeX warning (ext4): destination with the sam
-e identifier (name{figure.8.4}) has been already used, duplicate ignored
+e identifier (name{figure.8.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \include{sections/chapter8}
-                                ] [42pdfTeX warning (ext4): destination with th
-e same identifier (name{figure.8.5}) has been already used, duplicate ignored
+                                 <./Images/Washing hands.png>] [45pdfTeX warnin
+g (ext4): destination with the same identifier (name{figure.8.10}) has been alr
+eady used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                pdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.8.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \include{sections/chapter8}
                                 ]
 \openout2 = `sections/chapter9.aux'.
 
- (./sections/chapter9.tex
+ (./sections/chapter9.tex [46
+
+
+
+
+]
 Chapter 9.
 
 Overfull \hbox (5.86375pt too wide) in paragraph at lines 10--23
@@ -2615,12 +2721,7 @@ Overfull \hbox (5.86375pt too wide) in paragraph at lines 10--23
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43
-
-
-
-
-]
+ [47]
 Overfull \hbox (5.86375pt too wide) in paragraph at lines 24--30
 \T1/ptm/m/n/12 Thorough com-pat-i-bil-ity tests were con-ducted to en-sure seam
 -less in-te-gra-tion with $\OML/ztmcm/m/it/12 MetaMed$
@@ -2629,11 +2730,11 @@ Overfull \hbox (5.86375pt too wide) in paragraph at lines 24--30
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45])
-[46]
+ [49])
+[50]
 \openout2 = `sections/chapter10.aux'.
 
  (./sections/chapter10.tex
@@ -2641,7 +2742,7 @@ Chapter 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47
+ [51
 
 
 
@@ -2649,28 +2750,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
-[49]
+ [52]
+[53]
 \openout2 = `sections/chapter11.aux'.
 
- (./sections/chapter11.tex [50
+ (./sections/chapter11.tex [54
 
 
 
 
 ]
 Chapter 11.
-<Images/screen.png, id=1054, 1084.05pt x 758.08218pt>
+<Images/screen.png, id=1139, 1084.05pt x 758.08218pt>
 File: Images/screen.png Graphic file (type png)
 <use Images/screen.png>
 Package pdftex.def Info: Images/screen.png  used on input line 10.
 (pdftex.def)             Requested size: 213.39568pt x 149.2193pt.
-[51pdfTeX warning (ext4): destination with the same identifier (name{figure.11.
+[55pdfTeX warning (ext4): destination with the same identifier (name{figure.11.
 1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.16 \begin{center}
-                    <./Images/screen.png>]) [52]
+                    <./Images/screen.png>]) [56]
 \openout2 = `sections/conclusions.aux'.
 
  (./sections/conclusions.tex
@@ -2678,13 +2779,13 @@ Chapter 12.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53
+ [57
 
 
 
 
 ]
-[54] (./thesis.bbl [55
+[58] (./thesis.bbl [59
 
 
 \FN@pp@footnotehinttrue 
@@ -2705,7 +2806,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 []\T1/ptm/m/n/12 Reality Labs.  Meta quest logo, Oc-to-ber 13, 2020.
  []
 
-[56]
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 123--126
 []\T1/ptm/m/n/12 Ton Roosendaal.  blender logo, Jan-uary 2, 1994.
  []
@@ -2721,7 +2822,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--147
 []\T1/ptm/m/n/12 Thestonefox.  Vrtk (vir-tual re-al-ity tool kit) logo, 2016.
  []
 
-) [57] (./thesis.aux (./sections/chapter1.aux) (./sections/chapter2.aux)
+) [61] (./thesis.aux (./sections/chapter1.aux) (./sections/chapter2.aux)
 (./sections/chapter3.aux) (./sections/chapter4.aux) (./sections/chapter5.aux)
 (./sections/chapter6.aux) (./sections/chapter7.aux) (./sections/chapter8.aux)
 (./sections/chapter9.aux) (./sections/chapter10.aux) (./sections/chapter11.aux)
@@ -2735,29 +2836,26 @@ Package rerunfilecheck Warning: File `thesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: AF603FDC82087EDCE95E54ADC2EA8F6E;27296
-(rerunfilecheck)             After:  10C1B8485C79A906060B354430B24B5D;28245.
+(rerunfilecheck)             Before: B1D74DA4E4555A3315A87CD54C399A21;29472
+(rerunfilecheck)             After:  16B6792AD039EEC27A5C92B55A06E982;29462.
  ) 
 Here is how much of TeX's memory you used:
- 30354 strings out of 478287
- 598106 string characters out of 5849289
- 1060231 words of memory out of 5000000
- 47634 multiletter control sequences out of 15000+600000
+ 30390 strings out of 478287
+ 598815 string characters out of 5849289
+ 1060282 words of memory out of 5000000
+ 47653 multiletter control sequences out of 15000+600000
  534151 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,14n,118p,1423b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.8.6} has been referenced but does not exis
-t, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/
-texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/cm-
-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (71 pages, 12261759 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
+m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (75 pages, 12984013 bytes).
 PDF statistics:
- 1174 PDF objects out of 1200 (max. 8388607)
- 1026 compressed objects within 11 object streams
- 242 named destinations out of 1000 (max. 500000)
- 1090 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1263 PDF objects out of 1440 (max. 8388607)
+ 1108 compressed objects within 12 object streams
+ 258 named destinations out of 1000 (max. 500000)
+ 1191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
