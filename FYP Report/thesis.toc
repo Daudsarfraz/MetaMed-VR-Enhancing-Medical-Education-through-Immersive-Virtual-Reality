@@ -94,11 +94,11 @@
 \contentsline {section}{\numberline {8.2}SVN or GitHub}{46}{section.8.2}%
 \contentsline {chapter}{\numberline {9}Iteration 4}{47}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Introduction}{47}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{48}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Integration Process with Meta Quest 2}{49}{section.9.3}%
+\contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{47}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Integration Process with Meta Quest 2}{48}{section.9.3}%
 \contentsline {section}{\numberline {9.4}Testing and Calibration}{49}{section.9.4}%
 \contentsline {section}{\numberline {9.5}Enhancements and Features}{49}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Challenges and Solutions}{50}{section.9.6}%
+\contentsline {section}{\numberline {9.6}Challenges and Solutions}{49}{section.9.6}%
 \contentsline {section}{\numberline {9.7}Future Directions}{50}{section.9.7}%
 \contentsline {section}{\numberline {9.8}Conclusion}{50}{section.9.8}%
 \contentsline {chapter}{\numberline {10}Implementation Details}{51}{chapter.10}%
