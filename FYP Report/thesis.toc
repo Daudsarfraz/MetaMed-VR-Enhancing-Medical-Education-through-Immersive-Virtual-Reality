@@ -71,15 +71,15 @@
 \contentsline {chapter}{\numberline {7}Iteration Plan 2 (FYP 1 Final)}{35}{chapter.7}%
 \contentsline {section}{\numberline {7.1}FYP 1 Final:}{35}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Designed basic environment of Hospital:}{35}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Reception Area:}{35}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Waiting Area:}{36}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Patient Rooms:}{37}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Patient Body:}{37}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.1}Hospital Entrance:}{35}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Reception Area:}{36}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Waiting Area:}{36}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Patient Rooms:}{37}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Patient Body:}{37}{subsection.7.2.5}%
 \contentsline {chapter}{\numberline {8}Iteration 3 (FYP-2 Mid)}{39}{chapter.8}%
 \contentsline {section}{\numberline {8.1}FYP-2 Mid}{39}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Laboratory}{40}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}Tools and Medicines}{41}{subsection.8.1.2}%
-\contentsline {section}{\numberline {8.2}SVN or GitHub}{41}{section.8.2}%
+\contentsline {subsection}{\numberline {8.1.1}Tools and Medicines}{40}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}SVN or GitHub}{40}{section.8.2}%
 \contentsline {chapter}{\numberline {9}Iteration 4}{47}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Introduction}{47}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{48}{section.9.2}%
