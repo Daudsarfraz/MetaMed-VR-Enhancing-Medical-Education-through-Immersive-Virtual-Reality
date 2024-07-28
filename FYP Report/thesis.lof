@@ -20,7 +20,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Use Case Diagram}}{32}{figure.6.1}%
 \contentsline {figure}{\numberline {6.2}{\ignorespaces System Diagram}}{33}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Activity Diagram}}{34}{figure.6.3}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Activity Diagram}}{33}{figure.6.3}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {7.1}{\ignorespaces Hospital Enterance}}{36}{figure.7.1}%
 \contentsline {figure}{\numberline {7.2}{\ignorespaces Reception Area}}{36}{figure.7.2}%
@@ -29,18 +29,16 @@
 \contentsline {figure}{\numberline {7.5}{\ignorespaces Patient Room}}{38}{figure.7.5}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {8.1}{\ignorespaces Tools and Medicine}}{40}{figure.8.1}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Tools and Medicine}}{40}{figure.8.2}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Tools and Medicine}}{41}{figure.8.3}%
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Tools and Medicine}}{41}{figure.8.4}%
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Tools and Medicine}}{42}{figure.8.5}%
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Tools and Medicine}}{42}{figure.8.6}%
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Tools and Medicine}}{43}{figure.8.7}%
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Washing hands}}{43}{figure.8.8}%
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Tools and Medicine}}{44}{figure.8.9}%
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Tools and Medicine}}{44}{figure.8.10}%
-\contentsline {figure}{\numberline {8.11}{\ignorespaces Tools and Medicine}}{45}{figure.8.11}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Grabbing Tool}}{40}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Hands Washing}}{41}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Pour Alcohol}}{41}{figure.8.4}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Clean the injection site}}{42}{figure.8.5}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Dispose the Cotton}}{42}{figure.8.6}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Picking the injection}}{43}{figure.8.7}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Inject the medication}}{43}{figure.8.8}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Applying Cut on Body}}{44}{figure.8.9}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {11.1}{\ignorespaces Choose Scenario}}{55}{figure.11.1}%
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Choose Scenario}}{53}{figure.11.1}%
 \addvspace {10\p@ }
