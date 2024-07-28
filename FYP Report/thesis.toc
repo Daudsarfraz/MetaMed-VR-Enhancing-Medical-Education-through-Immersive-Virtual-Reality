@@ -66,7 +66,7 @@
 \contentsline {section}{\numberline {6.1}Literature review related Metaverse, and Healthcare}{31}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Designed Use-case, System Diagram}{31}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Use Case Diagram}{32}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Sequence Daigram/System Diagram}{32}{section.6.4}%
+\contentsline {section}{\numberline {6.4}System Diagram}{32}{section.6.4}%
 \contentsline {section}{\numberline {6.5}Activity Diagram}{32}{section.6.5}%
 \contentsline {chapter}{\numberline {7}Iteration Plan 2 (FYP 1 Final)}{35}{chapter.7}%
 \contentsline {section}{\numberline {7.1}FYP 1 Final:}{35}{section.7.1}%
