@@ -15,21 +15,21 @@
 \contentsline {chapter}{\numberline {2}Literature overview}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}All one needs to know about metaverse: A complete survey on technological singularity, virtual ecosystem, and research agenda \cite {lee2021all}\cite {BookChapter1}}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Healthcare in metaverse: A survey on current metaverse applications in healthcare\cite {bansal2022healthcare}\cite {JournalArticle12}}{8}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Medical Metaverse: Technology, Applications, Challenges and Future\cite {shao2023medical}}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Medical Metaverse: Technology, Applications, Challenges and Future\cite {shao2023medical}}{8}{section.2.3}%
 \contentsline {section}{\numberline {2.4}The Metaverse for Healthcare: A Survey of Potential Applications, Challenges, and Future Directions.\cite {yendurimetaverse}\cite {JournalArticle10}}{9}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Revolutionizing Medical Education with Metaverse\cite {baskar2022revolutionizing}\cite {JournalArticle9}}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Revolutionizing Medical Education with Metaverse\cite {baskar2022revolutionizing}\cite {JournalArticle9}}{9}{section.2.5}%
 \contentsline {section}{\numberline {2.6}The Metaverse in Medical Education and Clinical Practice\cite {juan2023metaverse}}{10}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Virtual reality and the transformation of medical education\cite {pottle2019virtual}}{11}{section.2.7}%
-\contentsline {section}{\numberline {2.8}A Virtual Reality for the Digital Surgeon\cite {velazquez2021virtual}}{11}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Transforming medical education and training with VR using M.A.G.E.S.\cite {ProceedingsArticle}}{12}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Virtual Reality in Medicine\cite {JournalArticle}\cite {JournalArticle11}}{12}{section.2.10}%
-\contentsline {section}{\numberline {2.11}A Virtual Environment for Training and Assessment of Surgical Teams\cite {papagiannakis2018virtual}}{13}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Virtual reality technology and its application in modern medicine \cite {JournalArticle}}{13}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Role of virtual reality for healthcare education \cite {BookChapter}}{14}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Next-Gen Mulsemedia: Virtual Reality Haptic Simulator’s Impact on Medical Practitioner for Higher Education Institutions\cite {journalarticle4}\cite {JournalArticle5}\cite {JournalArticle8}}{14}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Design and implementation of a 3D digestive teaching system based on virtual reality technology in modern medical education\cite {Journal1}}{15}{section.2.15}%
-\contentsline {section}{\numberline {2.16}A Virtual Operating Room for Context-Relevant Training \cite {JournalArticle2}}{15}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Virtual reality surgical training and assessment system\cite {JournalArticle3}\cite {JournalArticle7}}{16}{section.2.17}%
+\contentsline {section}{\numberline {2.7}Virtual reality and the transformation of medical education\cite {pottle2019virtual}}{10}{section.2.7}%
+\contentsline {section}{\numberline {2.8}A Virtual Reality for the Digital Surgeon\cite {velazquez2021virtual}}{10}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Transforming medical education and training with VR using M.A.G.E.S.\cite {ProceedingsArticle}}{11}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Virtual Reality in Medicine\cite {JournalArticle}\cite {JournalArticle11}}{11}{section.2.10}%
+\contentsline {section}{\numberline {2.11}A Virtual Environment for Training and Assessment of Surgical Teams\cite {papagiannakis2018virtual}}{12}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Virtual reality technology and its application in modern medicine \cite {JournalArticle}}{12}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Role of virtual reality for healthcare education \cite {BookChapter}}{13}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Next-Gen Mulsemedia: Virtual Reality Haptic Simulator’s Impact on Medical Practitioner for Higher Education Institutions\cite {journalarticle4}\cite {JournalArticle5}\cite {JournalArticle8}}{13}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Design and implementation of a 3D digestive teaching system based on virtual reality technology in modern medical education\cite {Journal1}}{14}{section.2.15}%
+\contentsline {section}{\numberline {2.16}A Virtual Operating Room for Context-Relevant Training \cite {JournalArticle2}}{14}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Virtual reality surgical training and assessment system\cite {JournalArticle3}\cite {JournalArticle7}}{14}{section.2.17}%
 \contentsline {chapter}{\numberline {3}Project Vision}{17}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Problem Statement}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Business Opportunity}{17}{section.3.2}%

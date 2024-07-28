@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 04:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 04:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,65 +1453,65 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 4.
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 9.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 9.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 14.
@@ -1541,9 +1541,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 14.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
 Overfull \hbox (23.4522pt too wide) in paragraph at lines 19--19
 \T1/ptm/b/n/17.28 Ap-pli-ca-tions, Chal-lenges, and Fu-ture Directions.[[]][[]]
 | 
@@ -1608,7 +1605,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [8]
 Overfull \hbox (42.70204pt too wide) in paragraph at lines 24--24
 |[]\T1/ptm/b/n/17.28 Revolutionizing Med-i-cal Ed-u-ca-tion with Metaverse[[]][
 []]| 
@@ -1711,6 +1708,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 29.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.37994pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.37994pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.37994pt}.
+
+[9]
 Overfull \hbox (71.40387pt too wide) in paragraph at lines 34--34
 |[]\T1/ptm/b/n/17.28 Virtual re-al-ity and the trans-for-ma-tion of med-i-cal e
 ducation[[]]| 
@@ -1745,10 +1754,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 34.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 40.
 
@@ -1779,7 +1784,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 45.
@@ -1807,6 +1812,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 45.
+
+
+Overfull \hbox (38.67148pt too wide) in paragraph at lines 46--49
+\T1/ptm/m/n/12 The pa-per pri-mar-ily dis-cusses or-tho-pe-dic surg-eries, ne-g
+lect-ing gen-er-al-iz-abil-ity, cost-effectiveness,
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1867,7 +1878,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
+ [11]
 Overfull \hbox (0.91833pt too wide) in paragraph at lines 54--54
 |[]\T1/ptm/b/n/17.28 A Vir-tual En-vi-ron-ment for Train-ing and As-sess-ment
  []
@@ -1937,7 +1948,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+ [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 65.
@@ -2053,7 +2064,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
+ [13]
 Overfull \hbox (10.52713pt too wide) in paragraph at lines 77--77
 \T1/ptm/b/n/17.28 ing sys-tem based on vir-tual re-al-ity tech-nol-ogy in mod-
  []
@@ -2125,18 +2136,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 84.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.37994pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.37994pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.37994pt}.
-
-[15]
 Overfull \hbox (57.82123pt too wide) in paragraph at lines 91--91
 |[]\T1/ptm/b/n/17.28 Virtual re-al-ity sur-gi-cal train-ing and as-sess-ment sy
 stem[[]][[]]| 
@@ -2198,10 +2197,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 91.
 
-) [16]
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+[15]
 \openout2 = `sections/chapter3.aux'.
 
- (./sections/chapter3.tex
+ (./sections/chapter3.tex [16
+
+
+
+
+]
 Chapter 3.
 
 Overfull \hbox (3.46457pt too wide) in paragraph at lines 7--8
@@ -2212,12 +2220,7 @@ tive, metaverse-based med-i-cal train-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17
-
-
-
-
-])
+ [17])
 [18]
 \openout2 = `sections/chapter4.aux'.
 
@@ -2232,7 +2235,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<Images/Use Case.drawio.png, id=943, 915.42pt x 782.925pt>
+<Images/Use Case.drawio.png, id=945, 915.42pt x 782.925pt>
 File: Images/Use Case.drawio.png Graphic file (type png)
 <use Images/Use Case.drawio.png>
 Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
@@ -2244,7 +2247,7 @@ Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
                                                   \__shipout_drop_firstpage_...
 l.36     \item M
                 anagement <./Images/Use Case.drawio.png>]
-<Images/system.png, id=949, 770.88pt x 578.16pt>
+<Images/system.png, id=951, 770.88pt x 578.16pt>
 File: Images/system.png Graphic file (type png)
 <use Images/system.png>
 Package pdftex.def Info: Images/system.png  used on input line 43.
@@ -2255,12 +2258,12 @@ Package pdftex.def Info: Images/system.png  used on input line 43.
                                                   \__shipout_drop_firstpage_...
 l.46 \newpage
               <./Images/system.png>]
-<Images/Activity.drawio.png, id=955, 200.75pt x 637.38126pt>
+<Images/Activity.drawio.png, id=957, 200.75pt x 637.38126pt>
 File: Images/Activity.drawio.png Graphic file (type png)
 <use Images/Activity.drawio.png>
 Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
 (pdftex.def)             Requested size: 106.69783pt x 338.7733pt.
-<Images/CSharp.png, id=956, 376.40625pt x 376.40625pt>
+<Images/CSharp.png, id=958, 376.40625pt x 376.40625pt>
 File: Images/CSharp.png Graphic file (type png)
 <use Images/CSharp.png>
 Package pdftex.def Info: Images/CSharp.png  used on input line 60.
@@ -2269,7 +2272,7 @@ Package pdftex.def Info: Images/CSharp.png  used on input line 60.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/blender.png, id=958, 376.40625pt x 376.40625pt>
+<Images/blender.png, id=960, 376.40625pt x 376.40625pt>
 File: Images/blender.png Graphic file (type png)
 <use Images/blender.png>
 Package pdftex.def Info: Images/blender.png  used on input line 67.
@@ -2277,7 +2280,7 @@ Package pdftex.def Info: Images/blender.png  used on input line 67.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/git.png, id=960, 376.40625pt x 376.40625pt>
+<Images/git.png, id=962, 376.40625pt x 376.40625pt>
 File: Images/git.png Graphic file (type png)
 <use Images/git.png>
 Package pdftex.def Info: Images/git.png  used on input line 74.
@@ -2288,7 +2291,7 @@ Package pdftex.def Info: Images/git.png  used on input line 74.
                                                   \__shipout_drop_firstpage_...
 l.77 \subsection{GitHub}
                          <./Images/Activity.drawio.png>]
-<Images/GitHub.png, id=967, 376.40625pt x 376.40625pt>
+<Images/GitHub.png, id=969, 376.40625pt x 376.40625pt>
 File: Images/GitHub.png Graphic file (type png)
 <use Images/GitHub.png>
 Package pdftex.def Info: Images/GitHub.png  used on input line 81.
@@ -2297,7 +2300,7 @@ Package pdftex.def Info: Images/GitHub.png  used on input line 81.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/meta.png, id=969, 376.40625pt x 376.40625pt>
+<Images/meta.png, id=971, 376.40625pt x 376.40625pt>
 File: Images/meta.png Graphic file (type png)
 <use Images/meta.png>
 Package pdftex.def Info: Images/meta.png  used on input line 88.
@@ -2322,7 +2325,7 @@ ier (name{figure.4.6}) has been already used, duplicate ignored
 l.91 \subsection{Unity}
                         <./Images/CSharp.png> <./Images/blender.png> <./Images/
 git.png>]
-<Images/unity.png, id=979, 376.40625pt x 376.40625pt>
+<Images/unity.png, id=981, 376.40625pt x 376.40625pt>
 File: Images/unity.png Graphic file (type png)
 <use Images/unity.png>
 Package pdftex.def Info: Images/unity.png  used on input line 95.
@@ -2343,12 +2346,12 @@ figure.4.9}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.98 \newpage
               <./Images/GitHub.png> <./Images/meta.png> <./Images/unity.png>]
-<Images/vrtk.png, id=988, 967.615pt x 408.52625pt>
+<Images/vrtk.png, id=990, 967.615pt x 408.52625pt>
 File: Images/vrtk.png Graphic file (type png)
 <use Images/vrtk.png>
 Package pdftex.def Info: Images/vrtk.png  used on input line 103.
 (pdftex.def)             Requested size: 128.03857pt x 85.35669pt.
-<Images/metaquest2.png, id=990, 2168.1pt x 2168.1pt>
+<Images/metaquest2.png, id=992, 2168.1pt x 2168.1pt>
 File: Images/metaquest2.png Graphic file (type png)
 <use Images/metaquest2.png>
 Package pdftex.def Info: Images/metaquest2.png  used on input line 110.
@@ -2365,7 +2368,7 @@ l.113 \newpage
                                                   \__shipout_drop_firstpage_...
 l.113 \newpage
                <./Images/vrtk.png> <./Images/metaquest2.png>]
-<Images/VS Code.png, id=997, 803.0pt x 803.0pt>
+<Images/VS Code.png, id=999, 803.0pt x 803.0pt>
 File: Images/VS Code.png Graphic file (type png)
 <use Images/VS Code.png>
 Package pdftex.def Info: Images/VS Code.png  used on input line 118.
@@ -2438,7 +2441,7 @@ l.58 \include{sections/chapter6}
 
 ]
 Chapter 7.
-<Images/Hospital Enterance.png, id=1029, 1898.09125pt x 1066.98625pt>
+<Images/Hospital Enterance.png, id=1031, 1898.09125pt x 1066.98625pt>
 File: Images/Hospital Enterance.png Graphic file (type png)
 <use Images/Hospital Enterance.png>
 Package pdftex.def Info: Images/Hospital Enterance.png  used on input line 25.
@@ -2451,7 +2454,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Reception Area.png, id=1030, 1910.13625pt x 1069.9975pt>
+<Images/Reception Area.png, id=1032, 1910.13625pt x 1069.9975pt>
 File: Images/Reception Area.png Graphic file (type png)
 <use Images/Reception Area.png>
 Package pdftex.def Info: Images/Reception Area.png  used on input line 35.
@@ -2462,7 +2465,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--40
  []
 
 [33]
-<Images/Waiting Area.png, id=1036, 1913.1475pt x 1072.005pt>
+<Images/Waiting Area.png, id=1038, 1913.1475pt x 1072.005pt>
 File: Images/Waiting Area.png Graphic file (type png)
 <use Images/Waiting Area.png>
 Package pdftex.def Info: Images/Waiting Area.png  used on input line 45.
@@ -2487,12 +2490,12 @@ me identifier (name{figure.7.2}) has been already used, duplicate ignored
 l.49 \subsection{Patient Rooms:}
                                 	 <./Images/Hospital Enterance.png> <./Images/R
 eception Area.png>]
-<Images/Patient Room.png, id=1043, 1924.18875pt x 1075.01625pt>
+<Images/Patient Room.png, id=1045, 1924.18875pt x 1075.01625pt>
 File: Images/Patient Room.png Graphic file (type png)
 <use Images/Patient Room.png>
 Package pdftex.def Info: Images/Patient Room.png  used on input line 53.
 (pdftex.def)             Requested size: 213.39369pt x 201.8275pt.
-<Images/Patient Body.png, id=1044, 717.68124pt x 728.7225pt>
+<Images/Patient Body.png, id=1046, 717.68124pt x 728.7225pt>
 File: Images/Patient Body.png Graphic file (type png)
 <use Images/Patient Body.png>
 Package pdftex.def Info: Images/Patient Body.png  used on input line 62.
@@ -2528,17 +2531,17 @@ Chapter 8.
 
 
 ]
-<Images/Tools and Medicine.png, id=1061, 1917.1625pt x 1072.005pt>
+<Images/Tools and Medicine.png, id=1063, 1917.1625pt x 1072.005pt>
 File: Images/Tools and Medicine.png Graphic file (type png)
 <use Images/Tools and Medicine.png>
 Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 21.
 (pdftex.def)             Requested size: 213.37508pt x 201.83467pt.
-<Images/Grabbing Tool.png, id=1062, 717.68124pt x 711.65875pt>
+<Images/Grabbing Tool.png, id=1064, 717.68124pt x 711.65875pt>
 File: Images/Grabbing Tool.png Graphic file (type png)
 <use Images/Grabbing Tool.png>
 Package pdftex.def Info: Images/Grabbing Tool.png  used on input line 30.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Washing hands.png, id=1063, 717.68124pt x 711.65875pt>
+<Images/Washing hands.png, id=1065, 717.68124pt x 711.65875pt>
 File: Images/Washing hands.png Graphic file (type png)
 <use Images/Washing hands.png>
 Package pdftex.def Info: Images/Washing hands.png  used on input line 39.
@@ -2557,12 +2560,12 @@ l.43
                                                   \__shipout_drop_firstpage_...
 l.43 
       <./Images/Tools and Medicine.png> <./Images/Grabbing Tool.png>]
-<Images/Pour Alcohol.png, id=1070, 717.68124pt x 711.65875pt>
+<Images/Pour Alcohol.png, id=1072, 717.68124pt x 711.65875pt>
 File: Images/Pour Alcohol.png Graphic file (type png)
 <use Images/Pour Alcohol.png>
 Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 48.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Clean the injection site.png, id=1071, 717.68124pt x 728.7225pt>
+<Images/Clean the injection site.png, id=1073, 717.68124pt x 728.7225pt>
 File: Images/Clean the injection site.png Graphic file (type png)
 <use Images/Clean the injection site.png>
 Package pdftex.def Info: Images/Clean the injection site.png  used on input lin
@@ -2579,12 +2582,12 @@ l.61
                                                   \__shipout_drop_firstpage_...
 l.61 
       <./Images/Washing hands.png> <./Images/Pour Alcohol.png>]
-<Images/Dispose the Cotton.png, id=1078, 717.68124pt x 711.65875pt>
+<Images/Dispose the Cotton.png, id=1080, 717.68124pt x 711.65875pt>
 File: Images/Dispose the Cotton.png Graphic file (type png)
 <use Images/Dispose the Cotton.png>
 Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 66.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Picking the injection.png, id=1079, 717.68124pt x 728.7225pt>
+<Images/Picking the injection.png, id=1081, 717.68124pt x 728.7225pt>
 File: Images/Picking the injection.png Graphic file (type png)
 <use Images/Picking the injection.png>
 Package pdftex.def Info: Images/Picking the injection.png  used on input line 7
@@ -2602,13 +2605,13 @@ l.79
 l.79 
       <./Images/Clean the injection site.png> <./Images/Dispose the Cotton.png>
 ]
-<Images/Inject the medication.png, id=1086, 717.68124pt x 711.65875pt>
+<Images/Inject the medication.png, id=1088, 717.68124pt x 711.65875pt>
 File: Images/Inject the medication.png Graphic file (type png)
 <use Images/Inject the medication.png>
 Package pdftex.def Info: Images/Inject the medication.png  used on input line 8
 4.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Applying Cut on Body.png, id=1087, 717.68124pt x 728.7225pt>
+<Images/Applying Cut on Body.png, id=1089, 717.68124pt x 728.7225pt>
 File: Images/Applying Cut on Body.png Graphic file (type png)
 <use Images/Applying Cut on Body.png>
 Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 93
@@ -2712,7 +2715,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./sections/chapter11.tex
 Chapter 11.
-<Images/screen.png, id=1135, 1084.05pt x 758.08218pt>
+<Images/screen.png, id=1137, 1084.05pt x 758.08218pt>
 File: Images/screen.png Graphic file (type png)
 <use Images/screen.png>
 Package pdftex.def Info: Images/screen.png  used on input line 10.
@@ -2798,10 +2801,10 @@ e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (71 pages, 16584860 bytes).
+Output written on thesis.pdf (71 pages, 16581802 bytes).
 PDF statistics:
- 1257 PDF objects out of 1440 (max. 8388607)
- 1093 compressed objects within 11 object streams
+ 1259 PDF objects out of 1440 (max. 8388607)
+ 1095 compressed objects within 11 object streams
  255 named destinations out of 1000 (max. 500000)
  1218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
