@@ -392,7 +392,7 @@
 		\clearpage
 	\listoffigures
 		\clearpage
-	\listoftables
+	%\listoftables
 	\pagenumbering{arabic}
 	\setcounter{page}{0}	
 }
