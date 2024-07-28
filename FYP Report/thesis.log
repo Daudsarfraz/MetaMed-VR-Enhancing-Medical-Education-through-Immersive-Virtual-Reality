@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 03:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 03:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2745,22 +2745,18 @@ l.16 \begin{center}
 
  (./sections/conclusions.tex
 Chapter 12.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57
+) [57
 
 
 
 
-]
-[58] (./thesis.bbl [59
+] (./thesis.bbl [58
 
 
 \FN@pp@footnotehinttrue 
 
 
-]
+] [59]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
 6.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -2809,13 +2805,13 @@ Here is how much of TeX's memory you used:
  47700 multiletter control sequences out of 15000+600000
  534151 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,14n,118p,1423b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,14n,118p,994b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (75 pages, 16590761 bytes).
+Output written on thesis.pdf (75 pages, 16590188 bytes).
 PDF statistics:
  1282 PDF objects out of 1440 (max. 8388607)
  1113 compressed objects within 12 object streams
