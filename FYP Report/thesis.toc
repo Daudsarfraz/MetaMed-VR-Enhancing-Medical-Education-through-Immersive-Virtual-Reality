@@ -81,17 +81,17 @@
 \contentsline {subsection}{\numberline {8.1.1}Tools and Medicines}{40}{subsection.8.1.1}%
 \contentsline {subsection}{\numberline {8.1.2}Tools Grabbing}{40}{subsection.8.1.2}%
 \contentsline {subsubsection}{\numberline {8.1.2.1}Washing hands}{40}{subsubsection.8.1.2.1}%
-\contentsline {subsubsection}{\numberline {8.1.2.2}Washing hands}{40}{subsubsection.8.1.2.2}%
+\contentsline {subsubsection}{\numberline {8.1.2.2}Pour Alcohol}{40}{subsubsection.8.1.2.2}%
 \contentsline {subsubsection}{\numberline {8.1.2.3}Washing hands}{41}{subsubsection.8.1.2.3}%
 \contentsline {subsubsection}{\numberline {8.1.2.4}Washing hands}{41}{subsubsection.8.1.2.4}%
-\contentsline {subsection}{\numberline {8.1.3}Tools Grabbing}{41}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.3}Tools Grabbing}{42}{subsection.8.1.3}%
 \contentsline {subsubsection}{\numberline {8.1.3.1}Washing hands}{42}{subsubsection.8.1.3.1}%
 \contentsline {subsubsection}{\numberline {8.1.3.2}Washing hands}{42}{subsubsection.8.1.3.2}%
-\contentsline {subsubsection}{\numberline {8.1.3.3}Washing hands}{42}{subsubsection.8.1.3.3}%
+\contentsline {subsubsection}{\numberline {8.1.3.3}Washing hands}{43}{subsubsection.8.1.3.3}%
 \contentsline {subsubsection}{\numberline {8.1.3.4}Washing hands}{43}{subsubsection.8.1.3.4}%
-\contentsline {subsubsection}{\numberline {8.1.3.5}Washing hands}{43}{subsubsection.8.1.3.5}%
-\contentsline {subsubsection}{\numberline {8.1.3.6}Washing hands}{43}{subsubsection.8.1.3.6}%
-\contentsline {section}{\numberline {8.2}SVN or GitHub}{43}{section.8.2}%
+\contentsline {subsubsection}{\numberline {8.1.3.5}Washing hands}{44}{subsubsection.8.1.3.5}%
+\contentsline {subsubsection}{\numberline {8.1.3.6}Washing hands}{44}{subsubsection.8.1.3.6}%
+\contentsline {section}{\numberline {8.2}SVN or GitHub}{44}{section.8.2}%
 \contentsline {chapter}{\numberline {9}Iteration 4}{47}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Introduction}{47}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{48}{section.9.2}%
