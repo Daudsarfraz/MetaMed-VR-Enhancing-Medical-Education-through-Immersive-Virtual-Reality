@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 05:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  29 JUL 2024 05:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,10 +462,6 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip90
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-)
-(/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
-Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
-pages
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
@@ -1263,10 +1259,7 @@ File: ThesisFigs/FASTLogo.jpg Graphic file (type jpg)
 <use ThesisFigs/FASTLogo.jpg>
 Package pdftex.def Info: ThesisFigs/FASTLogo.jpg  used on input line 41.
 (pdftex.def)             Requested size: 128.0387pt x 126.26787pt.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ThesisFigs/FASTLogo.jpg>
-]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1275,20 +1268,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2] [3
+[1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ThesisFigs/FASTLogo.jpg>
 ]
 File: ThesisFigs/FASTLogo.jpg Graphic file (type jpg)
 <use ThesisFigs/FASTLogo.jpg>
 Package pdftex.def Info: ThesisFigs/FASTLogo.jpg  used on input line 41.
 (pdftex.def)             Requested size: 128.0387pt x 126.26787pt.
- [4
 
-] [5
 
-] [1
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-] (./thesis.toc
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] [4] [1] (./thesis.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -1316,11 +1322,7 @@ la-tor's Im-pact on Med-
  [8]
 \openout2 = `sections/chapter1.aux'.
 
- (./sections/chapter1.tex [0
-
-
-
-]
+ (./sections/chapter1.tex
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
 .
@@ -1331,13 +1333,17 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 <to be read again> 
                    \relax 
 l.14 ...on{1990 - Emergence of 3D virtual worlds:}
-                                                   [1]
-<Images/industrial-metaverse-market-size.png, id=827, 752.8125pt x 445.665pt>
+                                                   [1
+
+
+
+]
+<Images/industrial-metaverse-market-size.png, id=819, 752.8125pt x 445.665pt>
 File: Images/industrial-metaverse-market-size.png Graphic file (type png)
 <use Images/industrial-metaverse-market-size.png>
 Package pdftex.def Info: Images/industrial-metaverse-market-size.png  used on i
 nput line 30.
-(pdftex.def)             Requested size: 341.43895pt x 201.83945pt.
+(pdftex.def)             Requested size: 341.43895pt x 269.10793pt.
 
 Overfull \hbox (1.11261pt too wide) in paragraph at lines 27--34
 []\T1/ptm/m/n/12 Metaversion, a fu-ture of im-mer-sive vir-tual and aug-mented 
@@ -1495,12 +1501,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 ...allenges and Future\cite{shao2023medical}}
-                                                   [5
+ [5
 
 
 
@@ -2229,7 +2230,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<Images/Use Case.drawio.png, id=927, 915.42pt x 782.925pt>
+<Images/Use Case.drawio.png, id=919, 915.42pt x 782.925pt>
 File: Images/Use Case.drawio.png Graphic file (type png)
 <use Images/Use Case.drawio.png>
 Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
@@ -2241,7 +2242,7 @@ Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
                                                   \__shipout_drop_firstpage_...
 l.36     \item M
                 anagement <./Images/Use Case.drawio.png>]
-<Images/system.png, id=934, 770.88pt x 578.16pt>
+<Images/system.png, id=925, 770.88pt x 578.16pt>
 File: Images/system.png Graphic file (type png)
 <use Images/system.png>
 Package pdftex.def Info: Images/system.png  used on input line 43.
@@ -2252,7 +2253,7 @@ Package pdftex.def Info: Images/system.png  used on input line 43.
                                                   \__shipout_drop_firstpage_...
 l.46 \newpage
               <./Images/system.png>]
-<Images/Activity.drawio.png, id=940, 200.75pt x 637.38126pt>
+<Images/Activity.drawio.png, id=933, 200.75pt x 637.38126pt>
 File: Images/Activity.drawio.png Graphic file (type png)
 <use Images/Activity.drawio.png>
 Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
@@ -2263,22 +2264,22 @@ Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
                                                   \__shipout_drop_firstpage_...
 l.54 \newpage
               <./Images/Activity.drawio.png>]
-<Images/CSharp.png, id=946, 376.40625pt x 376.40625pt>
+<Images/CSharp.png, id=939, 376.40625pt x 376.40625pt>
 File: Images/CSharp.png Graphic file (type png)
 <use Images/CSharp.png>
 Package pdftex.def Info: Images/CSharp.png  used on input line 60.
 (pdftex.def)             Requested size: 42.67986pt x 42.67986pt.
-<Images/blender.png, id=948, 376.40625pt x 376.40625pt>
+<Images/blender.png, id=941, 376.40625pt x 376.40625pt>
 File: Images/blender.png Graphic file (type png)
 <use Images/blender.png>
 Package pdftex.def Info: Images/blender.png  used on input line 67.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/git.png, id=950, 376.40625pt x 376.40625pt>
+<Images/git.png, id=943, 376.40625pt x 376.40625pt>
 File: Images/git.png Graphic file (type png)
 <use Images/git.png>
 Package pdftex.def Info: Images/git.png  used on input line 74.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/GitHub.png, id=952, 376.40625pt x 376.40625pt>
+<Images/GitHub.png, id=945, 376.40625pt x 376.40625pt>
 File: Images/GitHub.png Graphic file (type png)
 <use Images/GitHub.png>
 Package pdftex.def Info: Images/GitHub.png  used on input line 81.
@@ -2300,12 +2301,12 @@ er (name{figure.4.6}) has been already used, duplicate ignored
 l.84 \subsection{Meta}
                        <./Images/CSharp.png> <./Images/blender.png> <./Images/g
 it.png>]
-<Images/meta.png, id=961, 376.40625pt x 376.40625pt>
+<Images/meta.png, id=954, 376.40625pt x 376.40625pt>
 File: Images/meta.png Graphic file (type png)
 <use Images/meta.png>
 Package pdftex.def Info: Images/meta.png  used on input line 88.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/unity.png, id=963, 376.40625pt x 376.40625pt>
+<Images/unity.png, id=956, 376.40625pt x 376.40625pt>
 File: Images/unity.png Graphic file (type png)
 <use Images/unity.png>
 Package pdftex.def Info: Images/unity.png  used on input line 95.
@@ -2326,12 +2327,12 @@ figure.4.9}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.98 \newpage
               <./Images/GitHub.png> <./Images/meta.png> <./Images/unity.png>]
-<Images/metaquest2.png, id=972, 2168.1pt x 2168.1pt>
+<Images/metaquest2.png, id=965, 2168.1pt x 2168.1pt>
 File: Images/metaquest2.png Graphic file (type png)
 <use Images/metaquest2.png>
 Package pdftex.def Info: Images/metaquest2.png  used on input line 103.
 (pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
-<Images/VS Code.png, id=974, 803.0pt x 803.0pt>
+<Images/VS Code.png, id=967, 803.0pt x 803.0pt>
 File: Images/VS Code.png Graphic file (type png)
 <use Images/VS Code.png>
 Package pdftex.def Info: Images/VS Code.png  used on input line 110.
@@ -2410,7 +2411,7 @@ l.58 \include{sections/chapter6}
 
 ]
 Chapter 7.
-<Images/Hospital Enterance.png, id=1011, 1898.09125pt x 1066.98625pt>
+<Images/Hospital Enterance.png, id=1003, 1898.09125pt x 1066.98625pt>
 File: Images/Hospital Enterance.png Graphic file (type png)
 <use Images/Hospital Enterance.png>
 Package pdftex.def Info: Images/Hospital Enterance.png  used on input line 25.
@@ -2423,7 +2424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Reception Area.png, id=1012, 1910.13625pt x 1069.9975pt>
+<Images/Reception Area.png, id=1004, 1910.13625pt x 1069.9975pt>
 File: Images/Reception Area.png Graphic file (type png)
 <use Images/Reception Area.png>
 Package pdftex.def Info: Images/Reception Area.png  used on input line 35.
@@ -2434,7 +2435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--40
  []
 
 [31]
-<Images/Waiting Area.png, id=1017, 1913.1475pt x 1072.005pt>
+<Images/Waiting Area.png, id=1010, 1913.1475pt x 1072.005pt>
 File: Images/Waiting Area.png Graphic file (type png)
 <use Images/Waiting Area.png>
 Package pdftex.def Info: Images/Waiting Area.png  used on input line 45.
@@ -2459,12 +2460,12 @@ me identifier (name{figure.7.2}) has been already used, duplicate ignored
 l.49 \subsection{Patient Rooms:}
                                 	 <./Images/Hospital Enterance.png> <./Images/R
 eception Area.png>]
-<Images/Patient Room.png, id=1024, 1924.18875pt x 1075.01625pt>
+<Images/Patient Room.png, id=1017, 1924.18875pt x 1075.01625pt>
 File: Images/Patient Room.png Graphic file (type png)
 <use Images/Patient Room.png>
 Package pdftex.def Info: Images/Patient Room.png  used on input line 53.
 (pdftex.def)             Requested size: 213.39369pt x 201.8275pt.
-<Images/Patient Body.png, id=1025, 717.68124pt x 728.7225pt>
+<Images/Patient Body.png, id=1018, 717.68124pt x 728.7225pt>
 File: Images/Patient Body.png Graphic file (type png)
 <use Images/Patient Body.png>
 Package pdftex.def Info: Images/Patient Body.png  used on input line 62.
@@ -2500,17 +2501,17 @@ Chapter 8.
 
 
 ]
-<Images/Tools and Medicine.png, id=1043, 1917.1625pt x 1072.005pt>
+<Images/Tools and Medicine.png, id=1035, 1917.1625pt x 1072.005pt>
 File: Images/Tools and Medicine.png Graphic file (type png)
 <use Images/Tools and Medicine.png>
 Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 21.
 (pdftex.def)             Requested size: 213.37508pt x 201.83467pt.
-<Images/Grabbing Tool.png, id=1044, 717.68124pt x 711.65875pt>
+<Images/Grabbing Tool.png, id=1036, 717.68124pt x 711.65875pt>
 File: Images/Grabbing Tool.png Graphic file (type png)
 <use Images/Grabbing Tool.png>
 Package pdftex.def Info: Images/Grabbing Tool.png  used on input line 30.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Washing hands.png, id=1045, 717.68124pt x 711.65875pt>
+<Images/Washing hands.png, id=1037, 717.68124pt x 711.65875pt>
 File: Images/Washing hands.png Graphic file (type png)
 <use Images/Washing hands.png>
 Package pdftex.def Info: Images/Washing hands.png  used on input line 39.
@@ -2529,12 +2530,12 @@ l.43
                                                   \__shipout_drop_firstpage_...
 l.43 
       <./Images/Tools and Medicine.png> <./Images/Grabbing Tool.png>]
-<Images/Pour Alcohol.png, id=1052, 717.68124pt x 711.65875pt>
+<Images/Pour Alcohol.png, id=1044, 717.68124pt x 711.65875pt>
 File: Images/Pour Alcohol.png Graphic file (type png)
 <use Images/Pour Alcohol.png>
 Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 48.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Clean the injection site.png, id=1053, 717.68124pt x 728.7225pt>
+<Images/Clean the injection site.png, id=1045, 717.68124pt x 728.7225pt>
 File: Images/Clean the injection site.png Graphic file (type png)
 <use Images/Clean the injection site.png>
 Package pdftex.def Info: Images/Clean the injection site.png  used on input lin
@@ -2551,12 +2552,12 @@ l.61
                                                   \__shipout_drop_firstpage_...
 l.61 
       <./Images/Washing hands.png> <./Images/Pour Alcohol.png>]
-<Images/Dispose the Cotton.png, id=1060, 717.68124pt x 711.65875pt>
+<Images/Dispose the Cotton.png, id=1053, 717.68124pt x 711.65875pt>
 File: Images/Dispose the Cotton.png Graphic file (type png)
 <use Images/Dispose the Cotton.png>
 Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 66.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Picking the injection.png, id=1061, 717.68124pt x 728.7225pt>
+<Images/Picking the injection.png, id=1054, 717.68124pt x 728.7225pt>
 File: Images/Picking the injection.png Graphic file (type png)
 <use Images/Picking the injection.png>
 Package pdftex.def Info: Images/Picking the injection.png  used on input line 7
@@ -2574,13 +2575,13 @@ l.79
 l.79 
       <./Images/Clean the injection site.png> <./Images/Dispose the Cotton.png>
 ]
-<Images/Inject the medication.png, id=1068, 717.68124pt x 711.65875pt>
+<Images/Inject the medication.png, id=1061, 717.68124pt x 711.65875pt>
 File: Images/Inject the medication.png Graphic file (type png)
 <use Images/Inject the medication.png>
 Package pdftex.def Info: Images/Inject the medication.png  used on input line 8
 4.
 (pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Applying Cut on Body.png, id=1069, 717.68124pt x 728.7225pt>
+<Images/Applying Cut on Body.png, id=1062, 717.68124pt x 728.7225pt>
 File: Images/Applying Cut on Body.png Graphic file (type png)
 <use Images/Applying Cut on Body.png>
 Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 93
@@ -2684,7 +2685,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./sections/chapter11.tex
 Chapter 11.
-<Images/screen.png, id=1116, 1084.05pt x 758.08218pt>
+<Images/screen.png, id=1108, 1084.05pt x 758.08218pt>
 File: Images/screen.png Graphic file (type png)
 <use Images/screen.png>
 Package pdftex.def Info: Images/screen.png  used on input line 10.
@@ -2758,10 +2759,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: ACE8D0ADE24148C7054A897A1E156EBD;29046.
  ) 
 Here is how much of TeX's memory you used:
- 30425 strings out of 478287
- 600280 string characters out of 5849289
- 1060643 words of memory out of 5000000
- 47692 multiletter control sequences out of 15000+600000
+ 30399 strings out of 478287
+ 599516 string characters out of 5849289
+ 1060501 words of memory out of 5000000
+ 47671 multiletter control sequences out of 15000+600000
  534151 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,14n,118p,994b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2770,10 +2771,10 @@ e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (69 pages, 16495785 bytes).
+Output written on thesis.pdf (67 pages, 16496159 bytes).
 PDF statistics:
- 1238 PDF objects out of 1440 (max. 8388607)
- 1078 compressed objects within 11 object streams
- 251 named destinations out of 1000 (max. 500000)
+ 1231 PDF objects out of 1440 (max. 8388607)
+ 1073 compressed objects within 11 object streams
+ 250 named destinations out of 1000 (max. 500000)
  1205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
