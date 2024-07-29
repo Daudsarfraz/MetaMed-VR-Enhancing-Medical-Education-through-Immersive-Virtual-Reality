@@ -53,9 +53,8 @@
 \contentsline {subsection}{\numberline {4.7.4}GitHub}{22}{subsection.4.7.4}%
 \contentsline {subsection}{\numberline {4.7.5}Meta}{22}{subsection.4.7.5}%
 \contentsline {subsection}{\numberline {4.7.6}Unity}{22}{subsection.4.7.6}%
-\contentsline {subsection}{\numberline {4.7.7}VRTK (Virtual Reality Tool Kit)}{23}{subsection.4.7.7}%
-\contentsline {subsection}{\numberline {4.7.8}Meta Quest 2}{23}{subsection.4.7.8}%
-\contentsline {subsection}{\numberline {4.7.9}Microsoft Visual C++}{24}{subsection.4.7.9}%
+\contentsline {subsection}{\numberline {4.7.7}Meta Quest 2}{23}{subsection.4.7.7}%
+\contentsline {subsection}{\numberline {4.7.8}Microsoft Visual C++}{23}{subsection.4.7.8}%
 \contentsline {chapter}{\numberline {5}Iteration Plan}{25}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Planning Strategy}{25}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}FYP 1 Mid:}{25}{subsection.5.1.1}%
