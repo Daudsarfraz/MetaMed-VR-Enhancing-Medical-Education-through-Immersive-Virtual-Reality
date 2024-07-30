@@ -100,10 +100,9 @@
 \contentsline {section}{\numberline {10.6}Performing Medical Procedures}{58}{section.10.6}%
 \contentsline {section}{\numberline {10.7}Exit from the Virtual Environment}{58}{section.10.7}%
 \contentsline {chapter}{\numberline {11}User Manual}{59}{chapter.11}%
-\contentsline {section}{\numberline {11.1}UI/UX}{59}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Choose Scenario}{59}{section.11.2}%
-\contentsline {section}{\numberline {11.3}1.1 Toggle Menu}{60}{section.11.3}%
-\contentsline {section}{\numberline {11.4}1.2 Toggle Menu}{60}{section.11.4}%
+\contentsline {section}{\numberline {11.1}Choose Scenario}{59}{section.11.1}%
+\contentsline {section}{\numberline {11.2}1.1 Start Session}{60}{section.11.2}%
+\contentsline {section}{\numberline {11.3}1.2 Choose Scenario}{60}{section.11.3}%
 \contentsline {chapter}{\numberline {12}Conclusions and Future Work}{61}{chapter.12}%
 \contentsline {section}{\numberline {12.1}Conclusion:}{61}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Future Work:}{61}{section.12.2}%
