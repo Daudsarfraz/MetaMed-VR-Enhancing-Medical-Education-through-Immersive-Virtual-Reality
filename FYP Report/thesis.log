@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  30 JUL 2024 07:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  30 JUL 2024 08:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1133,6 +1133,12 @@ LaTeX Warning: Label `fig:Hands Washing' multiply defined.
 
 LaTeX Warning: Label `fig:Hands Washing' multiply defined.
 
+
+LaTeX Warning: Label `fig:Hands Washing' multiply defined.
+
+
+LaTeX Warning: Label `fig:Hands Washing' multiply defined.
+
 ) (./sections/chapter9.aux) (./sections/chapter10.aux)
 (./sections/chapter11.aux) (./sections/conclusions.aux))
 \openout1 = `thesis.aux'.
@@ -1338,7 +1344,7 @@ l.14 ...on{1990 - Emergence of 3D virtual worlds:}
 
 
 ]
-<Images/industrial-metaverse-market-size.png, id=782, 752.8125pt x 445.665pt>
+<Images/industrial-metaverse-market-size.png, id=786, 752.8125pt x 445.665pt>
 File: Images/industrial-metaverse-market-size.png Graphic file (type png)
 <use Images/industrial-metaverse-market-size.png>
 Package pdftex.def Info: Images/industrial-metaverse-market-size.png  used on i
@@ -2229,7 +2235,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<Images/Use Case.drawio.png, id=882, 915.42pt x 782.925pt>
+<Images/Use Case.drawio.png, id=886, 915.42pt x 782.925pt>
 File: Images/Use Case.drawio.png Graphic file (type png)
 <use Images/Use Case.drawio.png>
 Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
@@ -2241,7 +2247,7 @@ Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
                                                   \__shipout_drop_firstpage_...
 l.36     \item M
                 anagement <./Images/Use Case.drawio.png>]
-<Images/system.png, id=888, 770.88pt x 578.16pt>
+<Images/system.png, id=892, 770.88pt x 578.16pt>
 File: Images/system.png Graphic file (type png)
 <use Images/system.png>
 Package pdftex.def Info: Images/system.png  used on input line 43.
@@ -2252,7 +2258,7 @@ Package pdftex.def Info: Images/system.png  used on input line 43.
                                                   \__shipout_drop_firstpage_...
 l.46 \newpage
               <./Images/system.png>]
-<Images/Activity.drawio.png, id=895, 200.75pt x 637.38126pt>
+<Images/Activity.drawio.png, id=899, 200.75pt x 637.38126pt>
 File: Images/Activity.drawio.png Graphic file (type png)
 <use Images/Activity.drawio.png>
 Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
@@ -2263,17 +2269,17 @@ Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
                                                   \__shipout_drop_firstpage_...
 l.54 \newpage
               <./Images/Activity.drawio.png>]
-<Images/CSharp.png, id=901, 376.40625pt x 376.40625pt>
+<Images/CSharp.png, id=905, 376.40625pt x 376.40625pt>
 File: Images/CSharp.png Graphic file (type png)
 <use Images/CSharp.png>
 Package pdftex.def Info: Images/CSharp.png  used on input line 61.
 (pdftex.def)             Requested size: 42.67986pt x 42.67986pt.
-<Images/blender.png, id=903, 376.40625pt x 376.40625pt>
+<Images/blender.png, id=907, 376.40625pt x 376.40625pt>
 File: Images/blender.png Graphic file (type png)
 <use Images/blender.png>
 Package pdftex.def Info: Images/blender.png  used on input line 68.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/git.png, id=905, 376.40625pt x 376.40625pt>
+<Images/git.png, id=909, 376.40625pt x 376.40625pt>
 File: Images/git.png Graphic file (type png)
 <use Images/git.png>
 Package pdftex.def Info: Images/git.png  used on input line 75.
@@ -2282,7 +2288,7 @@ Package pdftex.def Info: Images/git.png  used on input line 75.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/GitHub.png, id=907, 376.40625pt x 376.40625pt>
+<Images/GitHub.png, id=911, 376.40625pt x 376.40625pt>
 File: Images/GitHub.png Graphic file (type png)
 <use Images/GitHub.png>
 Package pdftex.def Info: Images/GitHub.png  used on input line 82.
@@ -2290,7 +2296,7 @@ Package pdftex.def Info: Images/GitHub.png  used on input line 82.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/meta.png, id=909, 376.40625pt x 376.40625pt>
+<Images/meta.png, id=913, 376.40625pt x 376.40625pt>
 File: Images/meta.png Graphic file (type png)
 <use Images/meta.png>
 Package pdftex.def Info: Images/meta.png  used on input line 89.
@@ -2306,7 +2312,7 @@ ier (name{figure.4.5}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.92 \subsection{Unity}
                         <./Images/CSharp.png> <./Images/blender.png>]
-<Images/unity.png, id=917, 376.40625pt x 376.40625pt>
+<Images/unity.png, id=921, 376.40625pt x 376.40625pt>
 File: Images/unity.png Graphic file (type png)
 <use Images/unity.png>
 Package pdftex.def Info: Images/unity.png  used on input line 96.
@@ -2331,12 +2337,12 @@ figure.4.8}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.99 \newpage
               <./Images/git.png> <./Images/GitHub.png> <./Images/meta.png>]
-<Images/metaquest2.png, id=927, 2168.1pt x 2168.1pt>
+<Images/metaquest2.png, id=931, 2168.1pt x 2168.1pt>
 File: Images/metaquest2.png Graphic file (type png)
 <use Images/metaquest2.png>
 Package pdftex.def Info: Images/metaquest2.png  used on input line 104.
 (pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
-<Images/VS Code.png, id=929, 803.0pt x 803.0pt>
+<Images/VS Code.png, id=933, 803.0pt x 803.0pt>
 File: Images/VS Code.png Graphic file (type png)
 <use Images/VS Code.png>
 Package pdftex.def Info: Images/VS Code.png  used on input line 111.
@@ -2420,7 +2426,7 @@ l.58 \include{sections/chapter6}
 
 ]
 Chapter 7.
-<Images/Hospital Enterance.png, id=966, 1898.09125pt x 1066.98625pt>
+<Images/Hospital Enterance.png, id=970, 1898.09125pt x 1066.98625pt>
 File: Images/Hospital Enterance.png Graphic file (type png)
 <use Images/Hospital Enterance.png>
 Package pdftex.def Info: Images/Hospital Enterance.png  used on input line 25.
@@ -2433,7 +2439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Reception Area.png, id=967, 1910.13625pt x 1069.9975pt>
+<Images/Reception Area.png, id=971, 1910.13625pt x 1069.9975pt>
 File: Images/Reception Area.png Graphic file (type png)
 <use Images/Reception Area.png>
 Package pdftex.def Info: Images/Reception Area.png  used on input line 35.
@@ -2444,7 +2450,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--40
  []
 
 [31]
-<Images/Waiting Area.png, id=973, 1913.1475pt x 1072.005pt>
+<Images/Waiting Area.png, id=977, 1913.1475pt x 1072.005pt>
 File: Images/Waiting Area.png Graphic file (type png)
 <use Images/Waiting Area.png>
 Package pdftex.def Info: Images/Waiting Area.png  used on input line 45.
@@ -2469,12 +2475,12 @@ me identifier (name{figure.7.2}) has been already used, duplicate ignored
 l.49 \subsection{Patient Rooms:}
                                 	 <./Images/Hospital Enterance.png> <./Images/R
 eception Area.png>]
-<Images/Patient Room.png, id=980, 1924.18875pt x 1075.01625pt>
+<Images/Patient Room.png, id=984, 1924.18875pt x 1075.01625pt>
 File: Images/Patient Room.png Graphic file (type png)
 <use Images/Patient Room.png>
 Package pdftex.def Info: Images/Patient Room.png  used on input line 53.
 (pdftex.def)             Requested size: 213.39369pt x 201.8275pt.
-<Images/Patient Body.png, id=981, 717.68124pt x 728.7225pt>
+<Images/Patient Body.png, id=985, 717.68124pt x 728.7225pt>
 File: Images/Patient Body.png Graphic file (type png)
 <use Images/Patient Body.png>
 Package pdftex.def Info: Images/Patient Body.png  used on input line 62.
@@ -2510,212 +2516,257 @@ Chapter 8.
 
 
 ]
-<Images/Tools and Medicine.png, id=997, 1917.1625pt x 1072.005pt>
+<Images/Tools and Medicine.png, id=1001, 1917.1625pt x 1072.005pt>
 File: Images/Tools and Medicine.png Graphic file (type png)
 <use Images/Tools and Medicine.png>
-Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 21.
-(pdftex.def)             Requested size: 213.37508pt x 201.83467pt.
-<Images/Grabbing Tool.png, id=998, 717.68124pt x 711.65875pt>
+Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 17.
+(pdftex.def)             Requested size: 298.7368pt x 201.83467pt.
+<Images/Grabbing Tool.png, id=1002, 717.68124pt x 711.65875pt>
 File: Images/Grabbing Tool.png Graphic file (type png)
 <use Images/Grabbing Tool.png>
-Package pdftex.def Info: Images/Grabbing Tool.png  used on input line 30.
-(pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Washing hands.png, id=999, 717.68124pt x 711.65875pt>
-File: Images/Washing hands.png Graphic file (type png)
-<use Images/Washing hands.png>
-Package pdftex.def Info: Images/Washing hands.png  used on input line 39.
-(pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-
-Underfull \vbox (badness 4096) has occurred while \output is active []
-
+Package pdftex.def Info: Images/Grabbing Tool.png  used on input line 25.
+(pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
  [36pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.43 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-.2}) has been already used, duplicate ignored
+l.29 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.8.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.43 
-      <./Images/Tools and Medicine.png> <./Images/Grabbing Tool.png>]
-<Images/Pour Alcohol.png, id=1006, 717.68124pt x 711.65875pt>
+l.29 \newpage
+              <./Images/Tools and Medicine.png> <./Images/Grabbing Tool.png>]
+<Images/Washing hands.png, id=1009, 717.68124pt x 711.65875pt>
+File: Images/Washing hands.png Graphic file (type png)
+<use Images/Washing hands.png>
+Package pdftex.def Info: Images/Washing hands.png  used on input line 33.
+(pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
+<Images/Pour Alcohol.png, id=1010, 717.68124pt x 711.65875pt>
 File: Images/Pour Alcohol.png Graphic file (type png)
 <use Images/Pour Alcohol.png>
-Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 48.
-(pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Clean the injection site.png, id=1007, 717.68124pt x 728.7225pt>
+Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 41.
+(pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
+
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.8.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.45 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.8.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.45 \newpage
+              <./Images/Washing hands.png> <./Images/Pour Alcohol.png>]
+<Images/Clean the injection site.png, id=1018, 717.68124pt x 728.7225pt>
 File: Images/Clean the injection site.png Graphic file (type png)
 <use Images/Clean the injection site.png>
 Package pdftex.def Info: Images/Clean the injection site.png  used on input lin
-e 57.
-(pdftex.def)             Requested size: 213.38962pt x 201.82814pt.
- [37pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.61 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.61 
-      <./Images/Washing hands.png> <./Images/Pour Alcohol.png>]
-<Images/Dispose the Cotton.png, id=1015, 717.68124pt x 711.65875pt>
+e 49.
+(pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
+<Images/Dispose the Cotton.png, id=1019, 717.68124pt x 711.65875pt>
 File: Images/Dispose the Cotton.png Graphic file (type png)
 <use Images/Dispose the Cotton.png>
-Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 66.
-(pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Picking the injection.png, id=1016, 717.68124pt x 728.7225pt>
+Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 57.
+(pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
+
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.8.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.61 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.8.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.61 \newpage
+              <./Images/Clean the injection site.png> <./Images/Dispose the Cot
+ton.png>]
+<Images/Picking the injection.png, id=1027, 717.68124pt x 728.7225pt>
 File: Images/Picking the injection.png Graphic file (type png)
 <use Images/Picking the injection.png>
-Package pdftex.def Info: Images/Picking the injection.png  used on input line 7
+Package pdftex.def Info: Images/Picking the injection.png  used on input line 6
 5.
-(pdftex.def)             Requested size: 213.38962pt x 201.82814pt.
- [38pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.79 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-.6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.79 
-      <./Images/Clean the injection site.png> <./Images/Dispose the Cotton.png>
-]
-<Images/Inject the medication.png, id=1024, 717.68124pt x 711.65875pt>
+(pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
+<Images/Inject the medication.png, id=1028, 717.68124pt x 711.65875pt>
 File: Images/Inject the medication.png Graphic file (type png)
 <use Images/Inject the medication.png>
-Package pdftex.def Info: Images/Inject the medication.png  used on input line 8
-4.
-(pdftex.def)             Requested size: 213.38962pt x 201.83667pt.
-<Images/Applying Cut on Body.png, id=1025, 717.68124pt x 728.7225pt>
-File: Images/Applying Cut on Body.png Graphic file (type png)
-<use Images/Applying Cut on Body.png>
-Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 93
-.
-(pdftex.def)             Requested size: 213.38962pt x 201.82814pt.
+Package pdftex.def Info: Images/Inject the medication.png  used on input line 7
+3.
+(pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
  [39pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.97 \newpage
+l.77 \newpage
              pdfTeX warning (ext4): destination with the same identifier (name{
 figure.8.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.97 \newpage
+l.77 \newpage
               <./Images/Picking the injection.png> <./Images/Inject the medicat
-ion.png>] [40pdfTeX warning (ext4): destination with the same identifier (name{
-figure.8.9}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.97 \newpage
-              <./Images/Applying Cut on Body.png>]
-<Images/playerp1.png, id=1037, 1772.6225pt x 1788.6825pt>
+ion.png>]
+<Images/Applying Cut on Body.png, id=1035, 717.68124pt x 728.7225pt>
+File: Images/Applying Cut on Body.png Graphic file (type png)
+<use Images/Applying Cut on Body.png>
+Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 81
+.
+(pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
+<Images/playerp1.png, id=1036, 1772.6225pt x 1788.6825pt>
 File: Images/playerp1.png Graphic file (type png)
 <use Images/playerp1.png>
-Package pdftex.def Info: Images/playerp1.png  used on input line 102.
+Package pdftex.def Info: Images/playerp1.png  used on input line 89.
 (pdftex.def)             Requested size: 426.7905pt x 470.94179pt.
- [41pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-10}) has been already used, duplicate ignored
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40pdfTeX warning (ext4): destination with the same identifier (name{figure.8.9
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.106 \newpage
-               <./Images/playerp1.png>]
-<Images/playerp2.png, id=1043, 1463.4675pt x 1981.4025pt>
+l.93 \newpage
+              <./Images/Applying Cut on Body.png>]
+<Images/playerp2.png, id=1042, 1463.4675pt x 1981.4025pt>
 File: Images/playerp2.png Graphic file (type png)
 <use Images/playerp2.png>
-Package pdftex.def Info: Images/playerp2.png  used on input line 109.
+Package pdftex.def Info: Images/playerp2.png  used on input line 96.
 (pdftex.def)             Requested size: 426.78409pt x 470.95079pt.
- [42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-11}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.114 \newpage
-               <./Images/playerp2.png>]
-<Images/playerp3.png, id=1049, 2063.71pt x 1740.5025pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/playerp3.png, id=1043, 2063.71pt x 1740.5025pt>
 File: Images/playerp3.png Graphic file (type png)
 <use Images/playerp3.png>
-Package pdftex.def Info: Images/playerp3.png  used on input line 117.
+Package pdftex.def Info: Images/playerp3.png  used on input line 104.
 (pdftex.def)             Requested size: 426.77907pt x 470.95116pt.
- [43pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-12}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.121 \newpage
-               <./Images/playerp3.png>]
-<Images/pore alcohol1.png, id=1056, 1772.6225pt x 2222.3025pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/pore alcohol1.png, id=1044, 1772.6225pt x 2222.3025pt>
 File: Images/pore alcohol1.png Graphic file (type png)
 <use Images/pore alcohol1.png>
-Package pdftex.def Info: Images/pore alcohol1.png  used on input line 124.
+Package pdftex.def Info: Images/pore alcohol1.png  used on input line 111.
 (pdftex.def)             Requested size: 426.7905pt x 470.936pt.
- [44pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-13}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.128 \newpage
-               <./Images/pore alcohol1.png>]
-<Images/pore alcohol2.png, id=1062, 2063.71pt x 2270.4825pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/pore alcohol2.png, id=1045, 2063.71pt x 2270.4825pt>
 File: Images/pore alcohol2.png Graphic file (type png)
 <use Images/pore alcohol2.png>
-Package pdftex.def Info: Images/pore alcohol2.png  used on input line 131.
+Package pdftex.def Info: Images/pore alcohol2.png  used on input line 118.
 (pdftex.def)             Requested size: 426.77907pt x 470.9258pt.
- [45pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-14}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.136 \newpage
-               <./Images/pore alcohol2.png>]
-<Images/cleaning1.png, id=1068, 1772.6225pt x 2752.2825pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/cleaning1.png, id=1046, 1772.6225pt x 2752.2825pt>
 File: Images/cleaning1.png Graphic file (type png)
 <use Images/cleaning1.png>
-Package pdftex.def Info: Images/cleaning1.png  used on input line 139.
+Package pdftex.def Info: Images/cleaning1.png  used on input line 126.
 (pdftex.def)             Requested size: 426.7905pt x 470.94759pt.
- [46pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-15}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.143 \newpage
-               <./Images/cleaning1.png>]
-<Images/cleaning2.png, id=1074, 2063.71pt x 2607.7425pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/cleaning2.png, id=1047, 2063.71pt x 2607.7425pt>
 File: Images/cleaning2.png Graphic file (type png)
 <use Images/cleaning2.png>
-Package pdftex.def Info: Images/cleaning2.png  used on input line 146.
+Package pdftex.def Info: Images/cleaning2.png  used on input line 133.
 (pdftex.def)             Requested size: 426.77907pt x 470.92525pt.
- [47pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-16}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.151 \newpage
-               <./Images/cleaning2.png>]
-<Images/inject1.png, id=1080, 1772.6225pt x 2607.7425pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/inject1.png, id=1048, 1772.6225pt x 2607.7425pt>
 File: Images/inject1.png Graphic file (type png)
 <use Images/inject1.png>
-Package pdftex.def Info: Images/inject1.png  used on input line 154.
+Package pdftex.def Info: Images/inject1.png  used on input line 141.
 (pdftex.def)             Requested size: 426.7905pt x 470.92525pt.
- [48pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
-17}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.158 \newpage
-               <./Images/inject1.png>]
-<Images/inject2.png, id=1086, 2063.71pt x 2511.3825pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/inject2.png, id=1049, 2063.71pt x 2511.3825pt>
 File: Images/inject2.png Graphic file (type png)
 <use Images/inject2.png>
-Package pdftex.def Info: Images/inject2.png  used on input line 161.
+Package pdftex.def Info: Images/inject2.png  used on input line 148.
 (pdftex.def)             Requested size: 426.77907pt x 470.92139pt.
-) [49pdfTeX warning (ext4): destination with the same identifier (name{figure.8
-.18}) has been already used, duplicate ignored
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Applying Cut and Bandage on Body.png, id=1050, 2043.635pt x 2655.9225pt
+>
+File: Images/Applying Cut and Bandage on Body.png Graphic file (type png)
+<use Images/Applying Cut and Bandage on Body.png>
+Package pdftex.def Info: Images/Applying Cut and Bandage on Body.png  used on i
+nput line 155.
+(pdftex.def)             Requested size: 426.7749pt x 470.91284pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [41] [42pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.8.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \include{sections/chapter8}
-                                 <./Images/Inject2.png>]
+                                 <./Images/playerp1.png>] [43pdfTeX warning (ex
+t4): destination with the same identifier (name{figure.8.11}) has been already 
+used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/playerp2.png>] [44pdfTeX warning (ex
+t4): destination with the same identifier (name{figure.8.12}) has been already 
+used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/playerp3.png>] [45pdfTeX warning (ex
+t4): destination with the same identifier (name{figure.8.13}) has been already 
+used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/pore alcohol1.png>] [46pdfTeX warnin
+g (ext4): destination with the same identifier (name{figure.8.14}) has been alr
+eady used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/pore alcohol2.png>] [47pdfTeX warnin
+g (ext4): destination with the same identifier (name{figure.8.15}) has been alr
+eady used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/cleaning1.png>] [48pdfTeX warning (e
+xt4): destination with the same identifier (name{figure.8.16}) has been already
+ used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/cleaning2.png>] [49pdfTeX warning (e
+xt4): destination with the same identifier (name{figure.8.17}) has been already
+ used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/inject1.png>] [50pdfTeX warning (ext
+4): destination with the same identifier (name{figure.8.18}) has been already u
+sed, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/Inject2.png>] [51pdfTeX warning (ext
+4): destination with the same identifier (name{figure.8.19}) has been already u
+sed, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \include{sections/chapter8}
+                                 <./Images/Applying Cut and Bandage on Body.png
+>]
 \openout2 = `sections/chapter9.aux'.
 
-
-(./sections/chapter9.tex [50
+ (./sections/chapter9.tex [52
 
 
 
@@ -2725,38 +2776,35 @@ Chapter 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
+ [53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53])
-[54]
+ [54])
+[55]
 \openout2 = `sections/chapter10.aux'.
 
- (./sections/chapter10.tex
+ (./sections/chapter10.tex [56
+
+
+
+
+]
 Chapter 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55
-
-
-
-
-])
-[56]
+ [57])
+[58]
 \openout2 = `sections/chapter11.aux'.
 
  (./sections/chapter11.tex
 Chapter 11.
-<Images/screen.png, id=1124, 1084.05pt x 758.08218pt>
+<Images/screen.png, id=1137, 1084.05pt x 758.08218pt>
 File: Images/screen.png Graphic file (type png)
 <use Images/screen.png>
 Package pdftex.def Info: Images/screen.png  used on input line 10.
 (pdftex.def)             Requested size: 213.39568pt x 149.2193pt.
-[57
+[59
 
 
 
@@ -2766,23 +2814,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.11.1})
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.16 \begin{center}
-                    <./Images/screen.png>]) [58]
+                    <./Images/screen.png>]) [60]
 \openout2 = `sections/conclusions.aux'.
 
  (./sections/conclusions.tex
 Chapter 12.
-) [59
+) [61
 
 
 
 
-] (./thesis.bbl [60
+] (./thesis.bbl [62
 
 
 \FN@pp@footnotehinttrue 
 
 
-] [61]
+] [63]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
 6.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -2797,7 +2845,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 []\T1/ptm/m/n/12 Reality Labs.  Meta quest logo, Oc-to-ber 13, 2020.
  []
 
-[62]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 123--126
 []\T1/ptm/m/n/12 Ton Roosendaal.  blender logo, Jan-uary 2, 1994.
  []
@@ -2808,7 +2856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--142
 .
  []
 
-) [63] (./thesis.aux (./sections/chapter1.aux) (./sections/chapter2.aux)
+) [65] (./thesis.aux (./sections/chapter1.aux) (./sections/chapter2.aux)
 (./sections/chapter3.aux) (./sections/chapter4.aux) (./sections/chapter5.aux)
 (./sections/chapter6.aux) (./sections/chapter7.aux) (./sections/chapter8.aux)
 (./sections/chapter9.aux) (./sections/chapter10.aux) (./sections/chapter11.aux)
@@ -2820,10 +2868,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: E0745B28A2A7093F46C409FE1156D0D1;26865.
  ) 
 Here is how much of TeX's memory you used:
- 30478 strings out of 478287
- 601511 string characters out of 5849289
- 1059621 words of memory out of 5000000
- 47734 multiletter control sequences out of 15000+600000
+ 30488 strings out of 478287
+ 601863 string characters out of 5849289
+ 1059650 words of memory out of 5000000
+ 47740 multiletter control sequences out of 15000+600000
  534151 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,14n,118p,994b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2832,10 +2880,10 @@ e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (75 pages, 19360438 bytes).
+Output written on thesis.pdf (77 pages, 19761675 bytes).
 PDF statistics:
- 1247 PDF objects out of 1440 (max. 8388607)
- 1063 compressed objects within 11 object streams
- 253 named destinations out of 1000 (max. 500000)
- 1178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1260 PDF objects out of 1440 (max. 8388607)
+ 1072 compressed objects within 11 object streams
+ 256 named destinations out of 1000 (max. 500000)
+ 1183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
