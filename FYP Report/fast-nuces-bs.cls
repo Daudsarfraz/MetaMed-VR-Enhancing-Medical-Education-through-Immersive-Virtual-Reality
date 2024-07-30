@@ -190,7 +190,7 @@
 \begin{alwayssingle}
 	\renewcommand{\footnotesize}{\small}
     \renewcommand{\footnoterule}{\relax}
-%    \thispagestyle{empty}
+    \thispagestyle{empty}
 	
 	% Title Page
 	\begin{center}
@@ -378,7 +378,6 @@
 \newenvironment{abstract} {
 	\pagestyle{empty}
 	\pagenumbering{roman}
-	%\setcounter{page}{i}	
 	\begin{alwayssingle} 
 		\begin{center}
 			\vspace*{1.5cm}
