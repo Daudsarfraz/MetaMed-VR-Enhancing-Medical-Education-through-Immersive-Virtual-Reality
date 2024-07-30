@@ -19,7 +19,7 @@
 \RequirePackage{tikz}
 \RequirePackage{tocloft}
 \RequirePackage[sort, numbers, authoryear]{natbib}
-%\RequirePackage{emptypage}
+\RequirePackage{emptypage}
 \RequirePackage{graphics}
 \RequirePackage{graphicx}
 \RequirePackage{fancyhdr}
@@ -250,7 +250,7 @@
 %	\clearpage
 
 	% Plagiarism Undertaking
-%	\thispagestyle{empty}
+	\thispagestyle{empty}
 	\vspace{1.5cm}
 	{\centering \Large \textbf{Student's Declaration}\par}
 	\vspace{0.5cm}
@@ -293,10 +293,10 @@
 		\vspace{1cm}{\longsignedby{\@authorfourname}}	\fi
 	\signedby{Verified by Plagiarism Cell Officer}
 	}
-%	\clearpage
+	\clearpage
 
 	% Certificate of Approval
-%	\thispagestyle{empty}
+	\thispagestyle{empty}
 	\vspace{1.5cm}
 	{\centering \Large \textbf{Certificate of Approval}\par}
 	\vspace{0.5cm}
@@ -352,7 +352,7 @@
 }
 
 \newenvironment{acknowledgements} {
-%	\pagestyle{empty}
+	\pagestyle{empty}
 	\begin{alwayssingle} 
 		\begin{center}
 			\vspace*{1.5cm}

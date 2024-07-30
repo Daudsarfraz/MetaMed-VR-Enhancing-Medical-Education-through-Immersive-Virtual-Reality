@@ -36,45 +36,45 @@ Warning--empty journal in JournalArticle
 Name 1 in "Chris Wanstrath, P. J. Hyett, Tom Preston-Werner, and Scott Chacon" has a comma at the end for entry github-logo
 while executing---line 1090 of file plain.bst
 Warning--empty publisher in velazquez2021virtual
-You've used 34 entries,
+You've used 33 entries,
             2118 wiz_defined-function locations,
-            702 strings with 9009 characters,
-and the built_in function-call counts, 8150 in all, are:
-= -- 754
-> -- 297
+            697 strings with 8920 characters,
+and the built_in function-call counts, 7944 in all, are:
+= -- 735
+> -- 290
 < -- 3
-+ -- 134
-- -- 94
-* -- 438
-:= -- 1214
-add.period$ -- 77
-call.type$ -- 34
-change.case$ -- 146
++ -- 131
+- -- 92
+* -- 432
+:= -- 1180
+add.period$ -- 74
+call.type$ -- 33
+change.case$ -- 142
 chr.to.int$ -- 0
-cite$ -- 51
-duplicate$ -- 319
-empty$ -- 822
-format.name$ -- 94
-if$ -- 1798
+cite$ -- 50
+duplicate$ -- 312
+empty$ -- 800
+format.name$ -- 92
+if$ -- 1753
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 33
 missing$ -- 12
-newline$ -- 146
-num.names$ -- 40
-pop$ -- 283
+newline$ -- 141
+num.names$ -- 38
+pop$ -- 274
 preamble$ -- 1
-purify$ -- 115
+purify$ -- 112
 quote$ -- 0
-skip$ -- 280
+skip$ -- 273
 stack$ -- 0
-substring$ -- 368
-swap$ -- 59
+substring$ -- 363
+swap$ -- 58
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 131
+type$ -- 127
 warning$ -- 17
-while$ -- 55
-width$ -- 36
-write$ -- 295
+while$ -- 53
+width$ -- 35
+write$ -- 285
 (There were 2 error messages)
