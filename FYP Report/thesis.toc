@@ -81,30 +81,30 @@
 \contentsline {subsubsection}{\numberline {8.1.2.6}Inject the medication}{39}{subsubsection.8.1.2.6}%
 \contentsline {subsubsection}{\numberline {8.1.2.7}Applying Cut on Body}{40}{subsubsection.8.1.2.7}%
 \contentsline {subsubsection}{\numberline {8.1.2.8}Objects Movement}{41}{subsubsection.8.1.2.8}%
-\contentsline {section}{\numberline {8.2}SVN or GitHub}{48}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Iteration 4}{49}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Introduction}{49}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{49}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Integration Process with Meta Quest 2}{50}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Testing and Calibration}{51}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Enhancements and Features}{51}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Challenges and Solutions}{51}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Future Directions}{51}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Conclusion}{52}{section.9.8}%
-\contentsline {chapter}{\numberline {10}Implementation Details}{53}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Introduction}{53}{section.10.1}%
-\contentsline {section}{\numberline {10.2}User Authentication and Environment Access}{53}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Navigation to the Virtual Hospital Environment}{53}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Scenario Selection and Patient Interaction}{54}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Laboratory Interaction and Tool Acquisition}{54}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Performing Medical Procedures}{54}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Exit from the Virtual Environment}{54}{section.10.7}%
-\contentsline {chapter}{\numberline {11}User Manual}{55}{chapter.11}%
-\contentsline {section}{\numberline {11.1}UI/UX}{55}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Choose Scenario}{55}{section.11.2}%
-\contentsline {section}{\numberline {11.3}1.1 Toggle Menu}{56}{section.11.3}%
-\contentsline {section}{\numberline {11.4}1.2 Toggle Menu}{56}{section.11.4}%
-\contentsline {chapter}{\numberline {12}Conclusions and Future Work}{57}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Conclusion:}{57}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Future Work:}{57}{section.12.2}%
-\contentsline {chapter}{References}{61}{chapter*.1}%
+\contentsline {section}{\numberline {8.2}SVN or GitHub}{49}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Iteration 4}{51}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduction}{51}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Integration Process with Keyboard}{51}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Integration Process with Meta Quest 2}{52}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Testing and Calibration}{53}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Enhancements and Features}{53}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Challenges and Solutions}{53}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Future Directions}{53}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Conclusion}{54}{section.9.8}%
+\contentsline {chapter}{\numberline {10}Implementation Details}{55}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Introduction}{55}{section.10.1}%
+\contentsline {section}{\numberline {10.2}User Authentication and Environment Access}{55}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Navigation to the Virtual Hospital Environment}{55}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Scenario Selection and Patient Interaction}{56}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Laboratory Interaction and Tool Acquisition}{56}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Performing Medical Procedures}{56}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Exit from the Virtual Environment}{56}{section.10.7}%
+\contentsline {chapter}{\numberline {11}User Manual}{57}{chapter.11}%
+\contentsline {section}{\numberline {11.1}UI/UX}{57}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Choose Scenario}{57}{section.11.2}%
+\contentsline {section}{\numberline {11.3}1.1 Toggle Menu}{58}{section.11.3}%
+\contentsline {section}{\numberline {11.4}1.2 Toggle Menu}{58}{section.11.4}%
+\contentsline {chapter}{\numberline {12}Conclusions and Future Work}{59}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Conclusion:}{59}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Future Work:}{59}{section.12.2}%
+\contentsline {chapter}{References}{63}{chapter*.1}%
