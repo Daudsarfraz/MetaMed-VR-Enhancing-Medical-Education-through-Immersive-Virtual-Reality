@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  30 JUL 2024 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.28)  8 AUG 2024 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1102,12 +1102,6 @@ LaTeX Warning: Label `fig:system-diagram' multiply defined.
 
 LaTeX Warning: Label `fig:system-diagram' multiply defined.
 
-
-LaTeX Warning: Label `fig:system-diagram' multiply defined.
-
-
-LaTeX Warning: Label `fig:system-diagram' multiply defined.
-
 ) (./sections/chapter8.aux) (./sections/chapter9.aux) (./sections/chapter10.aux
 ) (./sections/chapter11.aux) (./sections/conclusions.aux))
 \openout1 = `thesis.aux'.
@@ -1268,19 +1262,17 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
- [2
-
-]
+ [2]
 Overfull \hbox (4.17018pt too wide) in paragraph at lines 26--26
  [][] []\T1/ptm/m/n/12 Next-Gen Mulse-me-dia: Vir-tual Re-al-ity Hap-tic Sim-u-
 la-tor's Im-pact on Med- 
  []
 
-[3] [4])
+[3] [4] [5])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [5] [6] (./thesis.lof [7
+ [6] (./thesis.lof [7
 
 ])
 \tf@lof=\write6
@@ -1299,7 +1291,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 ...on{1990 - Emergence of 3D virtual worlds:}
+l.14 ...on{1990 - Emergence of 3D Virtual Worlds:}
                                                    [1
 
 
@@ -1353,122 +1345,122 @@ l.59 	\include{sections/chapter1}
  (./sections/chapter2.tex
 Chapter 2.
 
-Overfull \hbox (3.71848pt too wide) in paragraph at lines 4--4
+Overfull \hbox (3.71848pt too wide) in paragraph at lines 5--5
 \T1/ptm/b/n/17.28 sur-vey on tech-no-log-i-cal sin-gu-lar-ity, vir-tual ecosys-
 tem,
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 4.
+(hyperref)                removing `\begingroup' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 4.
+(hyperref)                removing `\<let>-command' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 4.
+(hyperref)                removing `\NAT@ctype' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 4.
+(hyperref)                removing `\z@' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 4.
+(hyperref)                removing `\let' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 4.
+(hyperref)                removing `\let' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 4.
+(hyperref)                removing `\new@ifnextchar' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 4.
+(hyperref)                removing `\begingroup' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 4.
+(hyperref)                removing `\<let>-command' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 4.
+(hyperref)                removing `\NAT@ctype' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 4.
+(hyperref)                removing `\z@' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 4.
+(hyperref)                removing `\let' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 4.
+(hyperref)                removing `\let' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 4.
+(hyperref)                removing `\new@ifnextchar' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 9.
+(hyperref)                removing `\begingroup' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 9.
+(hyperref)                removing `\<let>-command' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 9.
+(hyperref)                removing `\NAT@ctype' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 9.
+(hyperref)                removing `\z@' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
+(hyperref)                removing `\let' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
+(hyperref)                removing `\let' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 9.
+(hyperref)                removing `\new@ifnextchar' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 9.
+(hyperref)                removing `\begingroup' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 9.
+(hyperref)                removing `\<let>-command' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 9.
+(hyperref)                removing `\NAT@ctype' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 9.
+(hyperref)                removing `\z@' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
+(hyperref)                removing `\let' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 9.
+(hyperref)                removing `\let' on input line 11.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 9.
+(hyperref)                removing `\new@ifnextchar' on input line 11.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1481,170 +1473,119 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 14.
+(hyperref)                removing `\begingroup' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 14.
+(hyperref)                removing `\<let>-command' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 14.
+(hyperref)                removing `\NAT@ctype' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 14.
+(hyperref)                removing `\z@' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 14.
+(hyperref)                removing `\let' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 14.
+(hyperref)                removing `\let' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 14.
-
-
-Overfull \hbox (23.4522pt too wide) in paragraph at lines 19--19
-\T1/ptm/b/n/17.28 Ap-pli-ca-tions, Chal-lenges, and Fu-ture Directions.[[]][[]]
-| 
- []
+(hyperref)                removing `\new@ifnextchar' on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 19.
+(hyperref)                removing `\begingroup' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 19.
+(hyperref)                removing `\<let>-command' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 19.
+(hyperref)                removing `\NAT@ctype' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 19.
+(hyperref)                removing `\z@' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 19.
+(hyperref)                removing `\let' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 19.
+(hyperref)                removing `\let' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 19.
+(hyperref)                removing `\new@ifnextchar' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 19.
+(hyperref)                removing `\begingroup' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 19.
+(hyperref)                removing `\<let>-command' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 19.
+(hyperref)                removing `\NAT@ctype' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 19.
+(hyperref)                removing `\z@' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 19.
+(hyperref)                removing `\let' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 19.
+(hyperref)                removing `\let' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 19.
+(hyperref)                removing `\new@ifnextchar' on input line 23.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-Overfull \hbox (42.70204pt too wide) in paragraph at lines 24--24
-|[]\T1/ptm/b/n/17.28 Revolutionizing Med-i-cal Ed-u-ca-tion with Metaverse[[]][
-[]]| 
- []
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 24.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 24.
+(hyperref)                removing `\NAT@ctype' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 24.
+(hyperref)                removing `\z@' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 24.
+(hyperref)                removing `\let' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 24.
+(hyperref)                removing `\let' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 24.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 24.
-
-
-Overfull \hbox (8.31226pt too wide) in paragraph at lines 25--29
-\T1/ptm/m/n/12 Interdependence of char-ac-ter-is-tics in vir-tual teach-ing mod
-el. Over-com-ing ob-sta-cles through
- []
-
-
-Overfull \hbox (64.50867pt too wide) in paragraph at lines 29--29
-|[]\T1/ptm/b/n/17.28 The Meta-verse in Med-i-cal Ed-u-ca-tion and Clin-i-cal Pr
-actice[[]]| 
- []
+(hyperref)                removing `\new@ifnextchar' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1675,6 +1616,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 29.
 
 
+Overfull \hbox (8.31226pt too wide) in paragraph at lines 30--35
+\T1/ptm/m/n/12 Interdependence of char-ac-ter-is-tics in vir-tual teach-ing mod
+el. Over-com-ing ob-sta-cles through
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1687,169 +1634,99 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.37994pt}.
 
 [7]
-Overfull \hbox (71.40387pt too wide) in paragraph at lines 34--34
-|[]\T1/ptm/b/n/17.28 Virtual re-al-ity and the trans-for-ma-tion of med-i-cal e
-ducation[[]]| 
+Overfull \hbox (15.57225pt too wide) in paragraph at lines 35--35
+|[]\T1/ptm/b/n/17.28 The Meta-verse in Med-i-cal Ed-u-ca-tion and Clin-i-cal Pr
+ac-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 34.
+(hyperref)                removing `\begingroup' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 34.
+(hyperref)                removing `\<let>-command' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 34.
+(hyperref)                removing `\NAT@ctype' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 34.
+(hyperref)                removing `\z@' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 34.
+(hyperref)                removing `\let' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 34.
+(hyperref)                removing `\let' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 34.
+(hyperref)                removing `\new@ifnextchar' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 40.
+(hyperref)                removing `\begingroup' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 40.
+(hyperref)                removing `\<let>-command' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 40.
+(hyperref)                removing `\NAT@ctype' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 40.
+(hyperref)                removing `\z@' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 40.
+(hyperref)                removing `\let' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 40.
+(hyperref)                removing `\let' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 40.
+(hyperref)                removing `\new@ifnextchar' on input line 41.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 48.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 45.
-
-
-Overfull \hbox (38.67148pt too wide) in paragraph at lines 46--49
-\T1/ptm/m/n/12 The pa-per pri-mar-ily dis-cusses or-tho-pe-dic surg-eries, ne-g
-lect-ing gen-er-al-iz-abil-ity, cost-effectiveness,
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 49.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Overfull \hbox (0.91833pt too wide) in paragraph at lines 54--54
-|[]\T1/ptm/b/n/17.28 A Vir-tual En-vi-ron-ment for Train-ing and As-sess-ment
- []
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 54.
@@ -1879,43 +1756,75 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 54.
 
 
-Overfull \hbox (4.70354pt too wide) in paragraph at lines 60--60
-|[]\T1/ptm/b/n/17.28 Virtual re-al-ity tech-nol-ogy and its ap-pli-ca-tion in m
-od-
+Overfull \hbox (38.67148pt too wide) in paragraph at lines 55--59
+\T1/ptm/m/n/12 The pa-per pri-mar-ily dis-cusses or-tho-pe-dic surg-eries, ne-g
+lect-ing gen-er-al-iz-abil-ity, cost-effectiveness,
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 60.
+(hyperref)                removing `\begingroup' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 60.
+(hyperref)                removing `\<let>-command' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 60.
+(hyperref)                removing `\NAT@ctype' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 60.
+(hyperref)                removing `\z@' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 60.
+(hyperref)                removing `\let' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 60.
+(hyperref)                removing `\let' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 60.
+(hyperref)                removing `\new@ifnextchar' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 59.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [9]
+Overfull \hbox (0.91833pt too wide) in paragraph at lines 65--65
+|[]\T1/ptm/b/n/17.28 A Vir-tual En-vi-ron-ment for Train-ing and As-sess-ment
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 65.
@@ -1945,32 +1854,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 65.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 71.
+Overfull \hbox (4.70354pt too wide) in paragraph at lines 71--71
+|[]\T1/ptm/b/n/17.28 Virtual re-al-ity tech-nol-ogy and its ap-pli-ca-tion in m
+od-
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2001,174 +1888,251 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 71.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 71.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 71.
-
+ [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 71.
+(hyperref)                removing `\begingroup' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 71.
+(hyperref)                removing `\<let>-command' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 71.
+(hyperref)                removing `\NAT@ctype' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 71.
+(hyperref)                removing `\z@' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 71.
+(hyperref)                removing `\let' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 83.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 83.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Overfull \hbox (10.52713pt too wide) in paragraph at lines 77--77
+Overfull \hbox (10.52713pt too wide) in paragraph at lines 90--90
 \T1/ptm/b/n/17.28 ing sys-tem based on vir-tual re-al-ity tech-nol-ogy in mod-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 77.
+(hyperref)                removing `\begingroup' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 77.
+(hyperref)                removing `\<let>-command' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 77.
+(hyperref)                removing `\NAT@ctype' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 77.
+(hyperref)                removing `\z@' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 77.
+(hyperref)                removing `\let' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 77.
+(hyperref)                removing `\let' on input line 90.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 77.
+(hyperref)                removing `\new@ifnextchar' on input line 90.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
-
- []
-
-
-Overfull \hbox (23.50377pt too wide) in paragraph at lines 84--84
+Overfull \hbox (23.50377pt too wide) in paragraph at lines 98--98
 |[]\T1/ptm/b/n/17.28 A Vir-tual Op-er-at-ing Room for Context-Relevant Train-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 84.
+(hyperref)                removing `\begingroup' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 84.
+(hyperref)                removing `\<let>-command' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 84.
+(hyperref)                removing `\NAT@ctype' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 84.
+(hyperref)                removing `\z@' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 84.
+(hyperref)                removing `\let' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 84.
+(hyperref)                removing `\let' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 84.
+(hyperref)                removing `\new@ifnextchar' on input line 98.
 
 
-Overfull \hbox (57.82123pt too wide) in paragraph at lines 91--91
-|[]\T1/ptm/b/n/17.28 Virtual re-al-ity sur-gi-cal train-ing and as-sess-ment sy
-stem[[]][[]]| 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 91.
-
-)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 106.
+
+) [13]
 \openout2 = `sections/chapter3.aux'.
 
  (./sections/chapter3.tex
@@ -2196,7 +2160,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<Images/Use Case.drawio.png, id=875, 915.42pt x 782.925pt>
+<Images/Use Case.drawio.png, id=874, 915.42pt x 782.925pt>
 File: Images/Use Case.drawio.png Graphic file (type png)
 <use Images/Use Case.drawio.png>
 Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
@@ -2208,7 +2172,7 @@ Package pdftex.def Info: Images/Use Case.drawio.png  used on input line 22.
                                                   \__shipout_drop_firstpage_...
 l.36     \item M
                 anagement <./Images/Use Case.drawio.png>]
-<Images/system.png, id=881, 770.88pt x 578.16pt>
+<Images/system.png, id=880, 770.88pt x 578.16pt>
 File: Images/system.png Graphic file (type png)
 <use Images/system.png>
 Package pdftex.def Info: Images/system.png  used on input line 43.
@@ -2219,7 +2183,7 @@ Package pdftex.def Info: Images/system.png  used on input line 43.
                                                   \__shipout_drop_firstpage_...
 l.46 \newpage
               <./Images/system.png>]
-<Images/Activity.drawio.png, id=887, 200.75pt x 637.38126pt>
+<Images/Activity.drawio.png, id=886, 200.75pt x 637.38126pt>
 File: Images/Activity.drawio.png Graphic file (type png)
 <use Images/Activity.drawio.png>
 Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
@@ -2230,92 +2194,81 @@ Package pdftex.def Info: Images/Activity.drawio.png  used on input line 51.
                                                   \__shipout_drop_firstpage_...
 l.54 \newpage
               <./Images/Activity.drawio.png>]
-<Images/CSharp.png, id=894, 376.40625pt x 376.40625pt>
+<Images/CSharp.png, id=893, 376.40625pt x 376.40625pt>
 File: Images/CSharp.png Graphic file (type png)
 <use Images/CSharp.png>
 Package pdftex.def Info: Images/CSharp.png  used on input line 61.
 (pdftex.def)             Requested size: 42.67986pt x 42.67986pt.
-<Images/blender.png, id=896, 376.40625pt x 376.40625pt>
+<Images/blender.png, id=895, 376.40625pt x 376.40625pt>
 File: Images/blender.png Graphic file (type png)
 <use Images/blender.png>
 Package pdftex.def Info: Images/blender.png  used on input line 68.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-<Images/git.png, id=898, 376.40625pt x 376.40625pt>
+<Images/git.png, id=897, 376.40625pt x 376.40625pt>
 File: Images/git.png Graphic file (type png)
 <use Images/git.png>
 Package pdftex.def Info: Images/git.png  used on input line 75.
-(pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Images/GitHub.png, id=900, 376.40625pt x 376.40625pt>
+(pdftex.def)             Requested size: 64.01692pt x 64.01692pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.4.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 \newpage
+              <./Images/CSharp.png> <./Images/blender.png> <./Images/git.png>]
+<Images/GitHub.png, id=906, 376.40625pt x 376.40625pt>
 File: Images/GitHub.png Graphic file (type png)
 <use Images/GitHub.png>
-Package pdftex.def Info: Images/GitHub.png  used on input line 82.
+Package pdftex.def Info: Images/GitHub.png  used on input line 83.
 (pdftex.def)             Requested size: 42.67986pt x 42.67986pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Images/meta.png, id=902, 376.40625pt x 376.40625pt>
+<Images/meta.png, id=908, 376.40625pt x 376.40625pt>
 File: Images/meta.png Graphic file (type png)
 <use Images/meta.png>
-Package pdftex.def Info: Images/meta.png  used on input line 89.
+Package pdftex.def Info: Images/meta.png  used on input line 90.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.92 \subsection{Unity}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{figure.4.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.92 \subsection{Unity}
-                        <./Images/CSharp.png> <./Images/blender.png>]
 <Images/unity.png, id=910, 376.40625pt x 376.40625pt>
 File: Images/unity.png Graphic file (type png)
 <use Images/unity.png>
-Package pdftex.def Info: Images/unity.png  used on input line 96.
+Package pdftex.def Info: Images/unity.png  used on input line 97.
 (pdftex.def)             Requested size: 85.35399pt x 85.35399pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[21pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.99 \newpage
-             pdfTeX warning (ext4): destination with the same identifier (name{
-figure.4.7}) has been already used, duplicate ignored
+l.100 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.99 \newpage
-             pdfTeX warning (ext4): destination with the same identifier (name{
-figure.4.8}) has been already used, duplicate ignored
+l.100 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.99 \newpage
-              <./Images/git.png> <./Images/GitHub.png> <./Images/meta.png>]
+l.100 \newpage
+               <./Images/GitHub.png> <./Images/meta.png> <./Images/unity.png>]
 <Images/metaquest2.png, id=919, 2168.1pt x 2168.1pt>
 File: Images/metaquest2.png Graphic file (type png)
 <use Images/metaquest2.png>
-Package pdftex.def Info: Images/metaquest2.png  used on input line 104.
+Package pdftex.def Info: Images/metaquest2.png  used on input line 105.
 (pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
 <Images/VS Code.png, id=921, 803.0pt x 803.0pt>
 File: Images/VS Code.png Graphic file (type png)
 <use Images/VS Code.png>
-Package pdftex.def Info: Images/VS Code.png  used on input line 111.
+Package pdftex.def Info: Images/VS Code.png  used on input line 112.
 (pdftex.def)             Requested size: 85.35284pt x 85.35284pt.
-)
-[22pdfTeX warning (ext4): destination with the same identifier (name{figure.4.9
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.62 	\include{sections/chapter4}
-                                 pdfTeX warning (ext4): destination with the sa
-me identifier (name{figure.4.10}) has been already used, duplicate ignored
+) [22pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.62 	\include{sections/chapter4}
@@ -2324,8 +2277,8 @@ me identifier (name{figure.4.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.62 	\include{sections/chapter4}
-                                  <./Images/unity.png> <./Images/metaquest2.png
-> <./Images/VS Code.png>]
+                                  <./Images/metaquest2.png> <./Images/VS Code.p
+ng>]
 \openout2 = `sections/chapter5.aux'.
 
  (./sections/chapter5.tex
@@ -2382,11 +2335,11 @@ l.64 	\include{sections/chapter6}
 
  (./sections/chapter7.tex
 Chapter 7.
-<Images/Hospital Enterance.png, id=951, 1898.09125pt x 1066.98625pt>
+<Images/Hospital Enterance.png, id=950, 1898.09125pt x 1066.98625pt>
 File: Images/Hospital Enterance.png Graphic file (type png)
 <use Images/Hospital Enterance.png>
 Package pdftex.def Info: Images/Hospital Enterance.png  used on input line 25.
-(pdftex.def)             Requested size: 213.39572pt x 201.83405pt.
+(pdftex.def)             Requested size: 298.74821pt x 201.83405pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
@@ -2395,11 +2348,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Images/Reception Area.png, id=952, 1910.13625pt x 1069.9975pt>
+<Images/Reception Area.png, id=951, 1910.13625pt x 1069.9975pt>
 File: Images/Reception Area.png Graphic file (type png)
 <use Images/Reception Area.png>
 Package pdftex.def Info: Images/Reception Area.png  used on input line 35.
-(pdftex.def)             Requested size: 213.38002pt x 201.83221pt.
+(pdftex.def)             Requested size: 298.74951pt x 201.83221pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 32--40
 
@@ -2411,11 +2364,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--40
 
 
 ]
-<Images/Waiting Area.png, id=957, 1913.1475pt x 1072.005pt>
+<Images/Waiting Area.png, id=956, 1913.1475pt x 1072.005pt>
 File: Images/Waiting Area.png Graphic file (type png)
 <use Images/Waiting Area.png>
 Package pdftex.def Info: Images/Waiting Area.png  used on input line 45.
-(pdftex.def)             Requested size: 213.3953pt x 201.83467pt.
+(pdftex.def)             Requested size: 298.7534pt x 201.83467pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--49
 
@@ -2436,16 +2389,16 @@ me identifier (name{figure.7.2}) has been already used, duplicate ignored
 l.49 \subsection{Patient Rooms:}
                                 	 <./Images/Hospital Enterance.png> <./Images/R
 eception Area.png>]
-<Images/Patient Room.png, id=964, 1924.18875pt x 1075.01625pt>
+<Images/Patient Room.png, id=963, 1924.18875pt x 1075.01625pt>
 File: Images/Patient Room.png Graphic file (type png)
 <use Images/Patient Room.png>
 Package pdftex.def Info: Images/Patient Room.png  used on input line 53.
-(pdftex.def)             Requested size: 213.39369pt x 201.8275pt.
-<Images/Patient Body.png, id=965, 717.68124pt x 728.7225pt>
+(pdftex.def)             Requested size: 298.7453pt x 201.8275pt.
+<Images/Patient Body.png, id=964, 717.68124pt x 728.7225pt>
 File: Images/Patient Body.png Graphic file (type png)
 <use Images/Patient Body.png>
 Package pdftex.def Info: Images/Patient Body.png  used on input line 62.
-(pdftex.def)             Requested size: 213.38962pt x 201.82814pt.
+(pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2477,12 +2430,12 @@ Chapter 8.
 
 
 ]
-<Images/Tools and Medicine.png, id=982, 1917.1625pt x 1072.005pt>
+<Images/Tools and Medicine.png, id=981, 1917.1625pt x 1072.005pt>
 File: Images/Tools and Medicine.png Graphic file (type png)
 <use Images/Tools and Medicine.png>
 Package pdftex.def Info: Images/Tools and Medicine.png  used on input line 17.
 (pdftex.def)             Requested size: 298.7368pt x 201.83467pt.
-<Images/Grabbing Tool.png, id=983, 717.68124pt x 711.65875pt>
+<Images/Grabbing Tool.png, id=982, 717.68124pt x 711.65875pt>
 File: Images/Grabbing Tool.png Graphic file (type png)
 <use Images/Grabbing Tool.png>
 Package pdftex.def Info: Images/Grabbing Tool.png  used on input line 25.
@@ -2498,160 +2451,160 @@ figure.8.2}) has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.29 \newpage
               <./Images/Tools and Medicine.png> <./Images/Grabbing Tool.png>]
-<Images/Washing hands.png, id=990, 717.68124pt x 711.65875pt>
+<Images/Washing hands.png, id=989, 717.68124pt x 711.65875pt>
 File: Images/Washing hands.png Graphic file (type png)
 <use Images/Washing hands.png>
-Package pdftex.def Info: Images/Washing hands.png  used on input line 33.
+Package pdftex.def Info: Images/Washing hands.png  used on input line 34.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
-<Images/Pour Alcohol.png, id=991, 717.68124pt x 711.65875pt>
+<Images/Pour Alcohol.png, id=990, 717.68124pt x 711.65875pt>
 File: Images/Pour Alcohol.png Graphic file (type png)
 <use Images/Pour Alcohol.png>
-Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 41.
+Package pdftex.def Info: Images/Pour Alcohol.png  used on input line 43.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
 
 [34pdfTeX warning (ext4): destination with the same identifier (name{figure.8.3
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.45 \newpage
+l.47 \newpage
              pdfTeX warning (ext4): destination with the same identifier (name{
 figure.8.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.45 \newpage
+l.47 \newpage
               <./Images/Washing hands.png> <./Images/Pour Alcohol.png>]
-<Images/Clean the injection site.png, id=998, 717.68124pt x 728.7225pt>
+<Images/Clean the injection site.png, id=997, 717.68124pt x 728.7225pt>
 File: Images/Clean the injection site.png Graphic file (type png)
 <use Images/Clean the injection site.png>
 Package pdftex.def Info: Images/Clean the injection site.png  used on input lin
-e 49.
+e 52.
 (pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
-<Images/Dispose the Cotton.png, id=999, 717.68124pt x 711.65875pt>
+<Images/Dispose the Cotton.png, id=998, 717.68124pt x 711.65875pt>
 File: Images/Dispose the Cotton.png Graphic file (type png)
 <use Images/Dispose the Cotton.png>
-Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 56.
+Package pdftex.def Info: Images/Dispose the Cotton.png  used on input line 60.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
 
 [35pdfTeX warning (ext4): destination with the same identifier (name{figure.8.5
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.60 \newpage
+l.64 \newpage
              pdfTeX warning (ext4): destination with the same identifier (name{
 figure.8.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.60 \newpage
+l.64 \newpage
               <./Images/Clean the injection site.png> <./Images/Dispose the Cot
 ton.png>]
-<Images/Picking the injection.png, id=1006, 717.68124pt x 728.7225pt>
+<Images/Picking the injection.png, id=1005, 717.68124pt x 728.7225pt>
 File: Images/Picking the injection.png Graphic file (type png)
 <use Images/Picking the injection.png>
 Package pdftex.def Info: Images/Picking the injection.png  used on input line 6
-4.
+9.
 (pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
-<Images/Inject the medication.png, id=1007, 717.68124pt x 711.65875pt>
+<Images/Inject the medication.png, id=1006, 717.68124pt x 711.65875pt>
 File: Images/Inject the medication.png Graphic file (type png)
 <use Images/Inject the medication.png>
 Package pdftex.def Info: Images/Inject the medication.png  used on input line 7
-1.
+7.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
  [36pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.75 \newpage
+l.81 \newpage
              pdfTeX warning (ext4): destination with the same identifier (name{
 figure.8.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.75 \newpage
+l.81 \newpage
               <./Images/Picking the injection.png> <./Images/Inject the medicat
 ion.png>]
-<Images/Applying Cut on Body.png, id=1014, 717.68124pt x 728.7225pt>
+<Images/Applying Cut on Body.png, id=1013, 717.68124pt x 728.7225pt>
 File: Images/Applying Cut on Body.png Graphic file (type png)
 <use Images/Applying Cut on Body.png>
-Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 79
+Package pdftex.def Info: Images/Applying Cut on Body.png  used on input line 86
 .
 (pdftex.def)             Requested size: 298.75204pt x 201.82814pt.
  [37pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.83 \newpage
+l.90 \newpage
               <./Images/Applying Cut on Body.png>]
-<Images/playerp1.png, id=1022, 1772.6225pt x 1788.6825pt>
+<Images/playerp1.png, id=1021, 1772.6225pt x 1788.6825pt>
 File: Images/playerp1.png Graphic file (type png)
 <use Images/playerp1.png>
-Package pdftex.def Info: Images/playerp1.png  used on input line 88.
+Package pdftex.def Info: Images/playerp1.png  used on input line 97.
 (pdftex.def)             Requested size: 426.7905pt x 470.94179pt.
  [38pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.92 \newpage
-              <./Images/playerp1.png>]
-<Images/playerp2.png, id=1028, 1463.4675pt x 1981.4025pt>
+l.101 \newpage
+               <./Images/playerp1.png>]
+<Images/playerp2.png, id=1027, 1463.4675pt x 1981.4025pt>
 File: Images/playerp2.png Graphic file (type png)
 <use Images/playerp2.png>
-Package pdftex.def Info: Images/playerp2.png  used on input line 95.
+Package pdftex.def Info: Images/playerp2.png  used on input line 106.
 (pdftex.def)             Requested size: 426.78409pt x 470.95079pt.
  [39pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.99 \newpage
-              <./Images/playerp2.png>]
-<Images/playerp3.png, id=1034, 2063.71pt x 1740.5025pt>
+l.110 \newpage
+               <./Images/playerp2.png>]
+<Images/playerp3.png, id=1033, 2063.71pt x 1740.5025pt>
 File: Images/playerp3.png Graphic file (type png)
 <use Images/playerp3.png>
-Package pdftex.def Info: Images/playerp3.png  used on input line 102.
+Package pdftex.def Info: Images/playerp3.png  used on input line 115.
 (pdftex.def)             Requested size: 426.77907pt x 470.95116pt.
  [40pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.106 \newpage
+l.119 \newpage
                <./Images/playerp3.png>]
-<Images/pore alcohol1.png, id=1040, 1985.4175pt x 2993.1825pt>
+<Images/pore alcohol1.png, id=1039, 1985.4175pt x 2993.1825pt>
 File: Images/pore alcohol1.png Graphic file (type png)
 <use Images/pore alcohol1.png>
-Package pdftex.def Info: Images/pore alcohol1.png  used on input line 109.
+Package pdftex.def Info: Images/pore alcohol1.png  used on input line 124.
 (pdftex.def)             Requested size: 426.76556pt x 470.92635pt.
  [41pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.113 \newpage
+l.128 \newpage
                <./Images/pore alcohol1.png>]
-<Images/cleaning1.png, id=1046, 1985.4175pt x 2945.0025pt>
+<Images/cleaning1.png, id=1045, 1985.4175pt x 2945.0025pt>
 File: Images/cleaning1.png Graphic file (type png)
 <use Images/cleaning1.png>
-Package pdftex.def Info: Images/cleaning1.png  used on input line 116.
+Package pdftex.def Info: Images/cleaning1.png  used on input line 133.
 (pdftex.def)             Requested size: 426.76556pt x 470.94041pt.
  [42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 \newpage
+l.137 \newpage
                <./Images/cleaning1.png>]
-<Images/inject syringe.png, id=1052, 2043.635pt x 2655.9225pt>
+<Images/inject syringe.png, id=1051, 2043.635pt x 2655.9225pt>
 File: Images/inject syringe.png Graphic file (type png)
 <use Images/inject syringe.png>
-Package pdftex.def Info: Images/inject syringe.png  used on input line 123.
+Package pdftex.def Info: Images/inject syringe.png  used on input line 142.
 (pdftex.def)             Requested size: 426.7749pt x 470.91284pt.
  [43pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.127 \newpage
+l.146 \newpage
                <./Images/inject syringe.png>]
-<Images/Applying Cut and Bandage on Body.png, id=1059, 2043.635pt x 2655.9225pt
+<Images/Applying Cut and Bandage on Body.png, id=1058, 2043.635pt x 2655.9225pt
 >
 File: Images/Applying Cut and Bandage on Body.png Graphic file (type png)
 <use Images/Applying Cut and Bandage on Body.png>
 Package pdftex.def Info: Images/Applying Cut and Bandage on Body.png  used on i
-nput line 130.
+nput line 151.
 (pdftex.def)             Requested size: 426.7749pt x 470.91284pt.
 ) [44pdfTeX warning (ext4): destination with the same identifier (name{figure.8
 .16}) has been already used, duplicate ignored
@@ -2695,17 +2648,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./sections/chapter11.tex
 Chapter 11.
-<Images/User Manual.png, id=1087, 1916.15875pt x 1080.035pt>
+<Images/User Manual.png, id=1086, 1916.15875pt x 1080.035pt>
 File: Images/User Manual.png Graphic file (type png)
 <use Images/User Manual.png>
 Package pdftex.def Info: Images/User Manual.png  used on input line 8.
 (pdftex.def)             Requested size: 298.75583pt x 201.83038pt.
-<Images/start session.png, id=1088, 717.68124pt x 711.65875pt>
+<Images/start session.png, id=1087, 717.68124pt x 711.65875pt>
 File: Images/start session.png Graphic file (type png)
 <use Images/start session.png>
-Package pdftex.def Info: Images/start session.png  used on input line 16.
+Package pdftex.def Info: Images/start session.png  used on input line 17.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
-[50
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+ [50
 
 
 
@@ -2714,12 +2670,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.11.1})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.20 
+l.21 
       <./Images/User Manual.png>]
-<Images/select body part.png, id=1094, 717.68124pt x 711.65875pt>
+<Images/select body part.png, id=1093, 717.68124pt x 711.65875pt>
 File: Images/select body part.png Graphic file (type png)
 <use Images/select body part.png>
-Package pdftex.def Info: Images/select body part.png  used on input line 25.
+Package pdftex.def Info: Images/select body part.png  used on input line 26.
 (pdftex.def)             Requested size: 298.75204pt x 201.83667pt.
 ) [51pdfTeX warning (ext4): destination with the same identifier (name{figure.1
 1.2}) has been already used, duplicate ignored
@@ -2783,25 +2739,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--142
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 30BD8625CFC5D5BC760765C008A6191E;26785.
+(rerunfilecheck)             Checksum: 78781D5CBE1A946464F63A98FB709E3D;26843.
  ) 
 Here is how much of TeX's memory you used:
- 30476 strings out of 478287
- 601959 string characters out of 5849289
- 1060055 words of memory out of 5000000
- 47741 multiletter control sequences out of 15000+600000
+ 30478 strings out of 478287
+ 601997 string characters out of 5849289
+ 1061140 words of memory out of 5000000
+ 47743 multiletter control sequences out of 15000+600000
  532507 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,14n,118p,994b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,14n,118p,1002b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (67 pages, 21561974 bytes).
+Output written on thesis.pdf (67 pages, 21562370 bytes).
 PDF statistics:
- 1206 PDF objects out of 1440 (max. 8388607)
- 1030 compressed objects within 11 object streams
+ 1205 PDF objects out of 1440 (max. 8388607)
+ 1029 compressed objects within 11 object streams
  244 named destinations out of 1000 (max. 500000)
  1170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

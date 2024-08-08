@@ -386,7 +386,7 @@
   		\vspace{0.5cm}
 }{
 	\end{alwayssingle}
-	\clearpage
+%	\clearpage
 	
 	\tableofcontents
 		\clearpage
